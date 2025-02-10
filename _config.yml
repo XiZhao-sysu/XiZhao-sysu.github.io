@@ -1,4 +1,4 @@
-title: Hanlin Cai
+title: Yu Jiang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -10,7 +10,7 @@ owner:
   avatar: lufei.jpg
   email: jiangy269@mail2.sysu.edu.cn
   github: YuJiang-sysu
-
+  favicon: favicon.ico
 
 
 # Analytics and webmaster tools stuff goes here
