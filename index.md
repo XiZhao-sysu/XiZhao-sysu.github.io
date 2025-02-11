@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="{{ site.url }}/images/jiangyu.jpg" class="floatpic">
+<img src="https://yujiang-sysu.github.io//images/jiangyu.jpg" class="floatpic">
 
 Here is **Yu Jiang (江宇)**.<br>
 
