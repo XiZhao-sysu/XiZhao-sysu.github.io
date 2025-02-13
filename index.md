@@ -8,11 +8,10 @@ layout: page
 
 Here is **Yu Jiang (江宇)**.<br>
 
-I am a graduate student in the Remote Sensing of Engineering at the Sun Yat-sen University.
+I am a graduate student in the Remote Sensing of Engineering at the Sun Yat-sen University.Currently, I am conducting research on sea ice recognition using onboard cameras, with the aim of mapping the sea ice environment around ships using cameras during polar navigation.
 
 
-
-<font color="#990000">I am actively seeking a PhD position for 2025 Fall admission. If you have any information, please contact me. Thank you!</font>
+<font color="#990000">If you are interested in my research content, please contact me at any time.Thank you!</font>
 
 ---
 
