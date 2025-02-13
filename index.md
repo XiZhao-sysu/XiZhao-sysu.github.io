@@ -17,12 +17,9 @@ I am a graduate student in the Remote Sensing of Engineering at the Sun Yat-sen 
 
 ## Research Interests
 
-- [Internet of Everything](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:internet_of_everything)
-- Sea ice
-- Photogrammetry
-- Opencv
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the Machine Learning and its applications in Industrial IoT. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- [Sea ice](https://baike.baidu.com/item/%E6%B5%B7%E5%86%B0/80215)
+- [Photogrammetry](https://baike.baidu.com/item/%E6%91%84%E5%BD%B1%E6%B5%8B%E9%87%8F/507537)
+- [Computer version](https://baike.baidu.com/item/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89/2803351)
 
 ---
 
