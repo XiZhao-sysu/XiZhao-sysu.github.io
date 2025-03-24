@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# About Me
+# 个人简历
 
 <img src="https://yujiang-sysu.github.io//images/jiangyu.jpg" class="floatpic">
 

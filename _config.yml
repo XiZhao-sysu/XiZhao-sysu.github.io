@@ -7,7 +7,7 @@ url: https://YuJiang-sysu.github.io
 # Owner/author information
 owner:
   name: Yu Jiang
-  avatar: lufei.jpg
+  avatar: zhaoxi.jpg
   email: jiangy269@mail2.sysu.edu.cn
   github: YuJiang-sysu
 
@@ -67,8 +67,8 @@ kramdown:
 
 
 # disqus settings:
-disqus:
-  shortname: lancecai
+# disqus:
+#   shortname: lancecai
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
