@@ -18,7 +18,7 @@ title: Publications
 
 5. **Xi Zhao**, Yue Liu, Xiaoping Pang, Qing Ji, Alfred Stein, Xiao Cheng, Ying Chen. Concept-driven extraction of the Antarctic marginal sea ice zone from remote sensing image time series. Spatial Statistics. 2022. 100578, DOI:10.1016/j.spasta.2021.100578.
 
-6.**Xi Zhao**, Ying Chen, Stefan Kern, Meng Qu, Qing Ji*, Pei Fan and Yue Liu. Sea ice concentration derived from FY-3D MWRI and its accuracy assessment, IEEE Transactions on Geoscience and Remote Sensing, 2022, 60, 1-18. Doi: 10.1109/TGRS.2021.3063272
+6. **Xi Zhao**, Ying Chen, Stefan Kern, Meng Qu, Qing Ji*, Pei Fan and Yue Liu. Sea ice concentration derived from FY-3D MWRI and its accuracy assessment, IEEE Transactions on Geoscience and Remote Sensing, 2022, 60, 1-18. Doi: 10.1109/TGRS.2021.3063272
 
 7. Thomas Lavergne, Stefan Kern, et al. and **Xi Zhao**. A New Structure for the Sea Ice Essential Climate Variables of the Global Climate Observing System. Bulletin of the American Meteorological Society, 2022, DOI: 10.1175/BAMS-D-21-0227.1.
 

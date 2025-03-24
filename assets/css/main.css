@@ -59,7 +59,7 @@ body{word-wrap:normal;color:#333332;}
 .delta{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;}
 .epsilon{font-size:21px;font-size:1.1666666666666667rem;margin-bottom:1.4142857142857141rem;}
 .zeta{font-size:18px;font-size:1rem;margin-bottom:1.65rem;}
-h1{font-size:60px;font-size:3.3333333333333335rem;margin-bottom:0.495rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
+h1{font-size:60px;font-size:3.3333333333333335rem;margin-bottom:1rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h2{font-size:48px;font-size:2.6666666666666665rem;margin-bottom:0.61875rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h3{font-size:36px;font-size:2rem;margin-bottom:0.825rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
 h4{font-size:24px;font-size:1.3333333333333333rem;margin-bottom:1.2375rem;text-rendering:optimizeLegibility;line-height:1;margin-top:0;}
@@ -91,8 +91,8 @@ a:hover{color:#1a1a1a;}
 a:focus{outline:thin dotted;color:#343434;}
 a:hover,a:active{outline:0;}
 b,strong{font-weight:700;}
-ul li{list-style-type:none;}
-ol li{list-style-type:none;}
+ul li{list-style-type:decimal;}
+ol li{list-style-type:decimal;}
 p>a,li>a,em>a,a>em,footer a{text-decoration:none;border-bottom:1px dotted #b3b3b1;}
 p>a:hover,li>a:hover,em>a:hover,footer a:hover{text-decoration:none;border-bottom:1px solid #b3b3b1;}
 figcaption{margin-top:0.75em;line-height:1.25;font-size:18px;font-size:1rem;margin-bottom:1.65rem;font-family:'PT Sans Narrow',sans-serif;counter-increment:captions;}figcaption:before{font-weight:700;text-transform:uppercase;content:"Figure " counter(captions) ": ";}
