@@ -4,15 +4,15 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author)
+<!-- > (†: equal contribution, ~: corresponding author) -->
 
-## Conference Paper
+## 代表性论著
 
-- [Securing Billion Bluetooth Low Energy Devices Using Cyber-Physical Analysis and Deep Learning Techniques](https://www.researchgate.net/publication/384046364/)<br>**Hanlin Cai**†, Yuchen Fang†, Jiacheng Huang, Honglin Liao, Meng Yuan, Zhezhuang Xu~<br>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2024), Undergraduate Consortium.<br>Barcelona, Spain. August, 2024.<br>
+1. **Xi Zhao**, Jiaxing Gong, Meng Qu, Lijuan Song, Xiao Cheng. Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 2025. 316, 114517
 
-- [Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks](https://dl.acm.org/doi/abs/10.1145/3643832.3661434)<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services (MobiSys 2024), Poster Session.<br>Tokyo, Japan. June, 2024.
+2. Bo Li, Jiaxing Gong, Xi Zhao*, Xiao Cheng. Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm. Ocean Engineering. 2024, 311,118843
 
-- SeeMusic: XR-Enhanced Musical Language Training Application for Hearing-impaired Children<br>Linshi Li, Xianjinghua Chen, Yutian Qin and Hanlin Cai~<br>The 14th IEEE International Conference on Educational and Information Technology (ICEIT 2025).<br>Guangzhou, China. March, 2025.
+3. Yifan Wu, Yu Jiang, Yi Zhang, Yichen Li, Xin Chen, Wenqian Zhang, Xi Zhao*. Reconstruction of 2-m Air Temperature From ERA5 Reanalysis at Dome A, Antarctica. International Journal of Climatology, 2024, 0:1-10，[https://doi.org/10.1002/joc.8722](https://doi.org/10.1002/joc.8722)
 
   <br>
 
