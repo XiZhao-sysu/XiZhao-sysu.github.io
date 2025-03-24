@@ -26,6 +26,12 @@ title: Publications
 
 9. Yue Liu, Xiaoping Pang*, **Xi Zhao**, Alfred Stein, Xiang Zhang, Qing Ji, Meng Qu, Jiang Dong. Prediction of the Antarctic Marginal ICE Zone Extent Based upon its Multifractal Property. Fractals, 2021, 29(2), 2150035.
 
+10. Qing Ji, Ying Liu, Xiaoping Pang, Yue Pan, **Xi Zhao**. Characterization of sea ice and its snow cover in the Arctic Pacific Sector during the summer of 2016, Acta Oceanologica Sinica, 2021,40(1):33-42.
+
+11. Pei Fan, Xiaoping Pang, **Xi Zhao**, Mohammed Shokr, Ruibo Lei, Meng Qu, Qing Ji, Minghu Ding. Sea ice surface temperature retrieval from Landsat 8/TIRS: Evaluation of five methods against in situ temperature records and MODIS IST in Arctic region. Remote Sensing of Environment, 2020, 248, 111975.
+
+12. Meng Qu, Xiaoping Pang, **Xi Zhao**, Jinlun Zhang, Qing Ji, and Pei Fan. Estimation of turbulent heat flux over leads using satellite thermal images. The Cryosphere, 2019, 13, 1565–1582.
+
 ---
 
 ## Ongoing Project
