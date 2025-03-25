@@ -196,7 +196,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .image-text-item {
   display: flex;
-  position: relative;
+  position: absolute;
   margin-bottom: 20px;
   width: 100%;
   
