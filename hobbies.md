@@ -1,14 +1,19 @@
 ---
 layout: page
 permalink: /hobbies/index.html
-title: Hobbies
+title: Teaching and Team
 ---
 
-# Hobbies
+# 教学工作
 
-This page hasn’t been updated for a long time. Over the past year, I’ve remained passionate about swimming, but the lack of convenient and decent swimming pools in Cambridge has been an inconvenience. As a result, I’ve been swimming less frequently and have gained some weight. If you’re also in Cambridge and interested in swimming, running, or hiking together, feel free to contact me!
+- 主讲本科生课程《定量遥感》
+- 主讲研究生课程《空间统计》
+- 《极地安全》视频公开课于2024年国家安全日在全国高校思政网平台上线
+- 指导本科生在第16届视觉信息交流与交互国际会议（VINCI23）上获得最佳论文奖
 
-## Swimming & Surfing
+## 学生团队
+
+<!-- ## Swimming & Surfing
 
 <div class="third">
 <img src="/images/swimming2.JPG">
@@ -48,7 +53,7 @@ She is my love. Her name is Qbao (Q宝).
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
+<!-- <div class="calendly-inline-widget" data-url="https://calendly.com/lancecai/meet-with-lance" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
+Calendly inline widget end -->
 
