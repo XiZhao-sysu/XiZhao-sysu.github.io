@@ -6,21 +6,16 @@ title: Team
 
 
 ## 学生团队
-
-<div class="image-text-container">
-  <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
-  <p>插入一段文字。<p>
-
-
-<div class="image-text-container">
-  <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
-  <p><p>
-  
-
-
-<div class="image-text-container">
-  <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
-  <p>插入一段文字。<p>
+<div class="image-text-group">
+    <div class="image-text-container">
+        <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
+        <p>插入一段文字。<p>
+    <div class="image-text-container">
+        <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
+        <p>插入一段文字。<p>
+    <div class="image-text-container">
+        <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
+        <p>插入一段文字。<p>
 
 
 <!-- <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" class="floatpic_left">
