@@ -188,16 +188,17 @@ svg:not(:root){overflow:hidden;}
 .third figcaption{display:inline;float:left;width:100%;}
 img.floatpic_right{float:right; margin-left:1em; width:33%;}
 img.floatpic_left{float:left; margin-right:1em; width:33%}
+.image-text-group{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; /* 允许换行 */
+}
 .image-text-container {
   display: flex;
   margin-bottom: 20px;
   width: 100%;
 } 
-.image-text-group{
-  display: flex;
-  justify-content: space-around; /* 让每个item在水平方向均匀分布 */
-  flex-wrap: wrap; /* 允许换行 */
-}
+
 .img_left{
   max-width: 33%; /* 根据需要调整图片最大宽度 */
   height: auto;
