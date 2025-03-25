@@ -6,11 +6,28 @@ title: Team
 
 
 ## 学生团队
-<img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" class="floatpic_left">
+
+<div class="image-text-container">
+  <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="floatpic_left">
+  <p>插入一段文字。<p>
+</div>
+
+<div class="image-text-container">
+  <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="floatpic_right">
+  <p>插入一段文字。<p>
+  
+</div>
+
+<div class="image-text-container">
+  <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="floatpic_left">
+  <p>插入一段文字。<p>
+</div>
+
+<!-- <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" class="floatpic_left">
 
 <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" class="floatpic_left">
 
-<img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" class="floatpic_left">
+<img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" class="floatpic_left"> -->
 
 
 <!-- ## Swimming & Surfing
