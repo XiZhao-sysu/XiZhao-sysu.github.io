@@ -6,7 +6,7 @@ title: Team
 
 
 ## 学生团队
-
+<img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" class="floatpic_left">
 
 
 <!-- ## Swimming & Surfing
