@@ -4,7 +4,7 @@ layout: page
 
 # 个人简历
 
-<img src="https://yujiang-sysu.github.io//images/zhaoxi.jpg" class="floatpic_left">
+<img src="https://yujiang-sysu.github.io//images/zhaoxi.jpg" class="floatpic_right">
 
 <!-- Here is **Yu Jiang (江宇)**.<br> -->
 
