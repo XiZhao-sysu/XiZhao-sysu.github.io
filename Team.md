@@ -6,17 +6,17 @@ title: Team
 
 
 ## 学生团队
-<div class="image-text-container">
-    <div class="image-text-item">
-        <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
-        中山大学测绘科学与技术学院 副教授、博士生导师。中山大学极地中心副主任、教工第一党支部副书记。
-        主要从事极地海冰遥感、空间数据不确定性研究。2001-2007年在武汉大学获得本科和硕士学位，2012年获得荷兰特文特大学博士学位，2018-2019年美国华盛顿大学访问学者。2012-2021年武汉大学中国南极测绘研究中心讲师、副教授。2021年入选中山大学“百人计划”青年学术骨干，加盟中山大学测绘科学与技术学院
-    <div class="image-text-item">
-        <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
-        <p>插入一段文字。<p>
-    <div class="image-text-item">
-        <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
-        <p>插入一段文字。<p>
+
+<img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="floatpic_left">
+中山大学测绘科学与技术学院 副教授、博士生导师。中山大学极地中心副主任、教工第一党支部副书记。主要从事极地海冰遥感、空间数据不确定性研究。2001-2007年在武汉大学获得本科和硕士学位，2012年获得荷兰特文特大学博士学位，2018-2019年美国华盛顿大学访问学者。2012-2021年武汉大学中国南极测绘研究中心讲师、副教授。2021年入选中山大学“百人计划”青年学术骨干，加盟中山大学测绘科学与技术学院
+
+---
+
+<img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="floatpic_right">
+
+---
+<img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="floatpic_left">
+
 
 
 <!-- <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" class="floatpic_left">

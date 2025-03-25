@@ -192,15 +192,15 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   display: flex;
   flex-direction: column;
   flex-wrap: wrap; /* 允许换行 */
+  position: relative;
   width: 100%;
 }
 .image-text-item {
   display: flex;
   margin-bottom: 20px;
   width: 100%;
-  
+  position: absolute;
 } 
-
 .img_left{
   width: 100px; /* 根据需要调整图片最大宽度 */
   height: 100px;
