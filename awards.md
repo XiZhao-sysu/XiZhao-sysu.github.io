@@ -1,29 +1,30 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: Awards and Editor 
 ---
 
-> Update: 20th Sep 2024
+> Update: 25th Mar 2025
 
-## Scholarships
+## 获奖情况
 
-- June 2024：**KDD-24 Undergraduate Scholarship** ($1000)<br>Only 21 undergraduates are selected around the world
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- Aug 2023：Innovation Scholarship ($1400)<br>One of the highest undergraduate awards at FZU
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- 国际空间精度研究学会授予青年科学家-James Smith奖章
+- 2023年，全国高校教师国家安全教育教学风采展示“优秀风采教师”
+- 2023年，中山大学优秀辅导员
+- 2024年，中山大学辅导员年度人物<br>
 
-## Competitions
+## 学术期刊编辑
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：Best Technology Award in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- May 2023：Finalist Award in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Spatial Statistics编委
+- Ocean-Land-Atmosphere Research编委
+- Cold Regions Science and Technology编委<br>
+
+## 科学学会服务
+- 中国卫星导航定位协会无人机专业委员会 副主任委员
+- 国际数字地球学会极地专业委员会 副秘书长
+- 国际数字地球学会数字海洋专业委员会 委员
+- 中国青年极地科学家协会APECS China 理事
+- 中国冰冻圈科学学会（筹）极地冰冻圈委员会 委员
+- 中国冰冻圈科学学会（筹）冰冻圈女科学家工作委员会 委员<br>
 
 <br>

@@ -32,7 +32,7 @@ title: Publications
 
 12. Meng Qu, Xiaoping Pang, **Xi Zhao**, Jinlun Zhang, Qing Ji, and Pei Fan. Estimation of turbulent heat flux over leads using satellite thermal images. The Cryosphere, 2019, 13, 1565–1582.
 
----
+<!-- ---
 
 ## Ongoing Project
 
@@ -40,7 +40,7 @@ title: Publications
 
 To match the ubiquitous connectivity and heterogeneous networking characteristics of the universe, IoE also integrates new IoXs into its framework. **Internet of Nano Things (IoNT)**, for example, is poised to increase the resolution of cyber-physical interfaces and bring connectivity into uncharted territories, e.g., inside the human body, with the networks of smart biological agents. **Internet of People and Senses (IoPS)**, as another example, refers to the conceptual transfer of information and even skills between humans besides the nonverbal communication of senses, e.g., olfaction and gustation. We aim to design and implement new intelligent communication techniques for the **Internet of Everything**.
 
-<br>
+<br> -->
 
 <!-- ---
 
