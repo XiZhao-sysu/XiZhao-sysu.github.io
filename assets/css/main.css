@@ -196,10 +196,10 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .image-text-item {
   display: flex;
+  position: relative;
   margin-bottom: 20px;
   width: 100%;
-  margin-bottom: 20px;
-  padding: 10px;
+  
 } 
 
 .img_left{
