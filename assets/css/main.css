@@ -191,6 +191,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .image-text-container {
   display: flex;
   margin-bottom: 20px;
+  width: 100%;
 } 
 .image-text-group{
   display: flex;
