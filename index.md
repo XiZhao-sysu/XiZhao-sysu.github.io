@@ -6,7 +6,6 @@ layout: page
 
 <img src="https://yujiang-sysu.github.io//images/zhaoxi.jpg" class="floatpic_left">
 
-<img src="https://yujiang-sysu.github.io//images/zhaoxi.jpg" class="floatpic_right">
 <!-- Here is **Yu Jiang (江宇)**.<br> -->
 
 **赵羲**，中山大学测绘科学与技术学院 副教授、博士生导师。中山大学极地中心副主任、教工第一党支部副书记。<br>
