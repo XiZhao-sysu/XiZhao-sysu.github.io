@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## 个人简历
+# 个人简历
 
 <img src="https://yujiang-sysu.github.io//images/zhaoxi.jpg" class="floatpic">
 
