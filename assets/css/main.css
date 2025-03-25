@@ -202,14 +202,14 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 } 
 
 .img_left{
-  max-width: 100px; /* 根据需要调整图片最大宽度 */
-  height: auto;
+  width: 100px; /* 根据需要调整图片最大宽度 */
+  height: 100px;
   float:left;
   margin-right: 1em;
 }
 .img_right{
-  max-width: 100px; /* 根据需要调整图片最大宽度 */
-  height: auto;
+  width: 100px; /* 根据需要调整图片最大宽度 */
+  height: 100px;
   float:right;
   margin-left: 1em;
 }
