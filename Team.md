@@ -25,7 +25,6 @@ title: Team
         <div class = "up">
           <p> </p>
         </div>
-        ---
         <div class = "down">
           <p> </p>
         </div>
