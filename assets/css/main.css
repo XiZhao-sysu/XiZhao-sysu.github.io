@@ -214,7 +214,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .text_right{
   width: 66%;
-  background-color: blue;
+  background-color: #fff;
   float:right;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
@@ -222,21 +222,22 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .text_left{
   width: 66%;
-  background-color: blue;
+  background-color: #fff;
   float:left;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
+  position: relative;
 }
 .up{
   width:100%;
   height:60px;
-  background-color: red;
+  /* background-color: red; */
   float:left;
 }
 .down{
   width:100%;
   height:100px;
-  background-color: green;
+  /* background-color: green; */
   float:left;
 }
 
