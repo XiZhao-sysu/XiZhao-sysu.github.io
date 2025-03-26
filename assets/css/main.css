@@ -208,8 +208,8 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   margin-right: 1em;
 }
 .img_right{
-  width: 100px; /* 根据需要调整图片最大宽度 */
-  height: 100px;
+  width: 33%; /* 根据需要调整图片最大宽度 */
+
   float:right;
   margin-left: 1em;
 }
