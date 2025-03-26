@@ -218,6 +218,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   float:right;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
+  position: relative;
 }
 .text_left{
   width: 66%;
