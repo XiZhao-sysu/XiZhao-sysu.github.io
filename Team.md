@@ -25,14 +25,14 @@ title: Team
         <p> </p>
     </div>
   </div>
-  <div class="image-text-item">
+  <!-- <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="item-image">
     <div class="item-text">插入一段文字。</div>
   </div>
   <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="吴怡凡" class="item-image">
     <div class="item-text">插入一段文字。</div>
-  </div>
+  </div> -->
 </div>
 
 
