@@ -30,7 +30,7 @@ title: Team
     <div class="text_left">
         <p> </p>
     </div>
-    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img-right">
+    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
   </div>
   <!-- <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="吴怡凡" class="item-image">
