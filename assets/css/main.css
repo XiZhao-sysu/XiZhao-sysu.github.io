@@ -209,7 +209,6 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .img_right{
   width: 33%; /* 根据需要调整图片最大宽度 */
-
   float:right;
   margin-left: 1em;
 }
