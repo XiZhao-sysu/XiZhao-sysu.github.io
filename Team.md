@@ -32,10 +32,12 @@ title: Team
     </div>
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
   </div>
-  <!-- <div class="image-text-item">
-    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="吴怡凡" class="item-image">
-    <div class="item-text">插入一段文字。</div>
-  </div> -->
+  <div class="image-text-item">
+    <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
+    <div class="text_right">
+    插入一段文字。
+    </div>
+  </div>
 </div>
 
 
