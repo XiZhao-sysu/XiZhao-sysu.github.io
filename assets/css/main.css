@@ -233,6 +233,8 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   height:60px;
   background-color: red;
   float:left;
+  line-height: 60px; /* 等于容器高度 */
+  padding-left: 10px;
 }
 .down_div{
   width:100%;

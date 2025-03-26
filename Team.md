@@ -23,10 +23,10 @@ title: Team
     <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
     <div class="box_right">
         <div class="up_div">
-          <p class="up_left">宋利娟</p>
+          <p class="up_left_text">宋利娟</p>
         </div>
-        <div style="width: 80%;margin: 10px auto;border-top: 1px solid #333;float:left"></div>
         <div class = "down_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
           <p> </p>
         </div>
     </div>
