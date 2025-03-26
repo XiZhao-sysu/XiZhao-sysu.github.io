@@ -25,7 +25,7 @@ title: Team
         <div class="up_div">
           <p class="up_left">宋利娟</p>
         </div>
-        <hr style=" border: none;border-top: 1px solid #ccc;width: 80%;margin: 10px auto;">
+        <hr style="border: none;border-top: 1px solid #ccc;width: 80%;margin: 10px auto;float:left;">
         <div class = "down">
           <p> </p>
         </div>
