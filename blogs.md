@@ -29,6 +29,6 @@ title: Blogs
 ### 2021
 
 - [19岁，山高路亦远](https://caihanlin.com/blogs/19yrs)<br>
-- [星野学社实习回忆录](https://caihanlin.com/blogs/star)
+- [星野学社实习回忆录](https://caihanlin.com/blogs/star) -->
 
 
