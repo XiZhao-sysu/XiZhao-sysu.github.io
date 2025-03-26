@@ -192,18 +192,18 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   display: flex;
   flex-direction: column;
   flex-wrap: wrap; /* 允许换行 */
-  position: relative;
+  /* position: relative; */
   width: 100%;
 }
 .image-text-item {
   display: flex;
   margin-bottom: 20px;
   width: 100%;
-  position: absolute;
+  height: 120px;
+  /* position: absolute; */
 } 
 .img_left{
-  width: 100px; /* 根据需要调整图片最大宽度 */
-  height: 100px;
+  width: 33%; /* 根据需要调整图片最大宽度 */
   float:left;
   margin-right: 1em;
 }
@@ -212,6 +212,10 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   height: 100px;
   float:right;
   margin-left: 1em;
+}
+.text_right{
+  width: 66%;
+  background-color: blue;
 }
 .btn{display:inline-block;display:inline;zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
 .btn:hover{border:4px double #1a1a1a;}
