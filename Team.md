@@ -21,19 +21,19 @@ title: Team
 <div class="image-text-container">
   <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
-    <div class="text_right">
+    <div class="box_right">
         <div class="up_div">
-          <p class="up_left">  宋利娟</p>
+          <p class="up_left">宋利娟</p>
         </div>
         <div style="width: 80%;margin: 10px auto;border-top: 1px solid #333;float:left"></div>
-        <div class = "down">
+        <div class = "down_div">
           <p> </p>
         </div>
     </div>
   </div>
 
   <div class="image-text-item">
-    <div class="text_left">
+    <div class="box_left">
         <p> </p>
     </div>
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
@@ -41,13 +41,13 @@ title: Team
 
   <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
-    <div class="text_right">
+    <div class="box_right">
       <p>插入一段文字。</p>
     </div>
   </div>
 
   <div class="image-text-item">
-    <div class="text_left">
+    <div class="box_left">
         <p> </p>
     </div>
     <img src="https://yujiang-sysu.github.io//images/teams/gongjiaxing.jpg" alt="龚家兴" class="img_right">
