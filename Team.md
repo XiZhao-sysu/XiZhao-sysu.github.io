@@ -22,14 +22,17 @@ title: Team
   <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
     <div class="text_right">
-        <p> </p>
+    <p> </p>
+    </div>
+  </div>
+  
+  <div class="image-text-item">
+    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="item-right">
+    <div class="text_left">
+    <p> </p>
     </div>
   </div>
   <!-- <div class="image-text-item">
-    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="item-image">
-    <div class="item-text">插入一段文字。</div>
-  </div>
-  <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="吴怡凡" class="item-image">
     <div class="item-text">插入一段文字。</div>
   </div> -->
