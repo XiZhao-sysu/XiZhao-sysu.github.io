@@ -27,7 +27,7 @@ title: Team
   </div>
   
   <div class="image-text-item">
-    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="item-right">
+    <img src="https://yujiang-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img-right">
     <div class="text_left">
     <p> </p>
     </div>
