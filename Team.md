@@ -25,6 +25,7 @@ title: Team
         <div class = "up">
           <p> </p>
         </div>
+        <hr style="border: 2px dashed red; width: 80%; margin: 30px auto;">
         <div class = "down">
           <p> </p>
         </div>

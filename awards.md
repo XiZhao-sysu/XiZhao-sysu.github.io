@@ -4,8 +4,6 @@ permalink: /awards/index.html
 title: Awards and Editor 
 ---
 
-> Update: 25th Mar 2025
-
 
 ## 获奖情况
 
