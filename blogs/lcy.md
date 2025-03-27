@@ -4,7 +4,7 @@ permalink: /blogs/lcy/index.html
 title: lcy
 ---
 
-## 葛紫腾
+## 卢淳芸
 
 <img src="/blogs/team_members.assets/luchunyun.png">
 

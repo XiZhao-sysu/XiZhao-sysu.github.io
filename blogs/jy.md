@@ -4,7 +4,7 @@ permalink: /blogs/jy/index.html
 title: jy
 ---
 
-## 葛紫腾
+## 江宇
 
 <img src="/blogs/team_members.assets/jiangyu.jpg">
 

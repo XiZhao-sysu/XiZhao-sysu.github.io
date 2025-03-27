@@ -4,7 +4,7 @@ permalink: /blogs/zy/index.html
 title: zy
 ---
 
-## 葛紫腾
+## 张翼
 
 <img src="/blogs/team_members.assets/zhangyi.png">
 
