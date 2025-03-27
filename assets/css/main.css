@@ -230,18 +230,20 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .up_div{
   width:100%;
-  height:80px;
+  height:60px;
   background-color: red;
   float:left;
-  line-height: 80px; /* 等于容器高度 */
+  line-height: 60px; /* 等于容器高度 */
   padding-left: 10px;
   padding-right: 10px;
+  position: relative;
 }
 .down_div{
   width:100%;
-  height:100px;
+  height:120px;
   background-color: green;
   float:left;
+  position: relative;
 }
 .up_right_text{
   text-align: right;
@@ -249,18 +251,24 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .up_left_box{
   width:50%;
   float:left;
-  line-height: 80px;
+  line-height: 60px;
   text-align: left;
+  background-color: yellow;
 }
 .up_right_box{
   width:50%;
   float:right;
-  line-height: 80px;
+  line-height: 60px;
   text-align: right;
+  background-color: purple;
 }
 .up_div p{
   margin: 0 0;
 }
+.down_left_box{
+  width: 50%;
+}
+
 .btn{display:inline-block;display:inline;zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
 .btn:hover{border:4px double #1a1a1a;}
 .btn:first-child{margin-left:0;}
