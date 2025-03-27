@@ -242,6 +242,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   width: 100%;
   float: left;
   height: 20px;
+  background-color: #008080;
 }
 .down_div{
   width:100%;
