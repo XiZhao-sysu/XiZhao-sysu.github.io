@@ -283,6 +283,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   display: flex;
   justify-content: flex-end;  /* 水平靠右 */
   align-items: flex-end;      /* 垂直靠下 */
+  font-size: 80%;
 }
 
 
