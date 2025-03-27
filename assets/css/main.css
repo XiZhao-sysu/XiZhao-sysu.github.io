@@ -274,8 +274,16 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   width: 75%;
   float:left;
   background-color: yellow;
-  font-size: 100%;
+  font-size: 80%;
 }
+.down_left_box ol{
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.down_left_box ol li{
+  font-size: 80%;
+}
+
 .down_right_box{
   width: 25%;
   float:right;
