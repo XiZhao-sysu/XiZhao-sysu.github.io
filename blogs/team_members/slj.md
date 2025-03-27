@@ -6,7 +6,7 @@ title: slj
 
 ## 宋丽娟
 
-<img src="/blogs/team members.assets/songlijuan.png">
+<img src="/blogs/team_members.assets/songlijuan.png">
 
 ### 教育背景
 
