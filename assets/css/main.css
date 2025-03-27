@@ -300,9 +300,10 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   align-items: flex-end;      /* 垂直靠下 */
   font-size: 80%;
 }
-.tabel_md{
+.table_md{
   border-collapse: collapse; 
   border: none;
+  font-size: 100%;
 }
 .table_md td{
   border: none;
