@@ -270,12 +270,13 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   margin: 0 0;
 }
 .down_left_box{
-  width: 50%;
+  width: 75%;
   float:left;
   background-color: yellow;
+  font-size: 100%;
 }
 .down_right_box{
-  width: 50%;
+  width: 25%;
   float:right;
   background-color: purple;
   display: flex;
