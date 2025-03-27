@@ -35,10 +35,10 @@ title: Team
         </div>
         <div class = "down_div">
           <div class="down_left_box">
-            <ol>
+            <ul>
               <li>电话：</li>
               <li>邮箱：songlj7@mail2.sysu.edu.cn</li>
-            </ol>
+            </ul>
           </div>
           <div class="down_right_box">
             <p><a href="https://yujiang-sysu.github.io//blogs//team members//slj">查看详情</a></p>
