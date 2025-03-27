@@ -279,7 +279,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .down_left_box ul{
   margin-block-start: 0;
   margin-block-end: 0;
-  margin: 0 auto;        /* 容器居中（按需修改） */
+  margin: 10px auto;        /* 容器居中（按需修改） */
   padding-left: 10px;       /* 控制左侧缩进 */
   list-style-type: disc;    /* 强制显示圆点（默认值，可省略） */
 }
