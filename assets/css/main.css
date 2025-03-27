@@ -251,6 +251,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   float:left;
   display: flex;
   padding-right: 10px;
+  padding-left: 10px;
 }
 .up_left_box{
   width:50%;
