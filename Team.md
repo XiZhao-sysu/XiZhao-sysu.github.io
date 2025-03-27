@@ -187,6 +187,61 @@ title: Team
     <img src="https://yujiang-sysu.github.io//images/teams/zhangyi.jpg" alt="张翼" class="img_right">
   </div>
 
+  <div class="image-text-item">
+    <img src="https://yujiang-sysu.github.io//images/teams/jiangyu1.jpg" alt="江宇" class="img_left">
+    <div class="box_right">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>江宇</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：jiangy269@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/jy">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+  </div>
+
+  <div class="image-text-item">
+    <div class="box_left">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>卢淳芸</p>
+          </div>
+          <div class="up_right_box">
+            <p>本科生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：luchy26@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/lcy">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+    <img src="https://yujiang-sysu.github.io//images/teams/luchunyun.jpg" alt="卢淳芸" class="img_right">
+  </div>
 
 </div>
 
