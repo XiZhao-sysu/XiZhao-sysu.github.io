@@ -30,14 +30,15 @@ title: Team
             <p>博士研究生</p>
           </div>
         </div>
-        <div class = "down_div">
+        <div class="middle_div">
           <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
-          <p> </p>
+        </div>
+        <div class = "down_div">
           <div class="down_left_box">
-            <ul>
+            <ol>
               <li>电话：</li>
               <li>邮箱：songlj7@mail2.sysu.edu.cn</li>
-            </ul>
+            </ol>
           </div>
           <div class="down_right_box">
             <p><a href="https://yujiang-sysu.github.io//blogs//team members//slj">查看详情</a></p>
