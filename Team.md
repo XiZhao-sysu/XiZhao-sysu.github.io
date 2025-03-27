@@ -139,7 +139,7 @@ title: Team
             <p>葛紫腾</p>
           </div>
           <div class="up_right_box">
-            <p>博士研究生</p>
+            <p>硕士研究生</p>
           </div>
         </div>
         <div class="middle_div">
@@ -149,7 +149,7 @@ title: Team
           <div class="down_left_box">
             <ul>
               <li>电话：</li>
-              <li>邮箱：wuyf235@mail2.sysu.edu.cn</li>
+              <li>邮箱：gezt@mail2.sysu.edu.cn</li>
             </ul>
           </div>
           <div class="down_right_box">
@@ -157,6 +157,34 @@ title: Team
           </div>
         </div>
     </div>
+  </div>
+
+  <div class="image-text-item">
+    <div class="box_left">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>张翼</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：zhangy2679@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/zy">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+    <img src="https://yujiang-sysu.github.io//images/teams/zhangyi.jpg" alt="张翼" class="img_right">
   </div>
 
 

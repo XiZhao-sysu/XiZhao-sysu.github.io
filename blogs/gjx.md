@@ -4,7 +4,7 @@ permalink: /blogs/gjx/index.html
 title: gjx
 ---
 
-## 吴怡凡
+## 龚家兴
 
 <img src="/blogs/team_members.assets/gongjiaxing.png">
 
