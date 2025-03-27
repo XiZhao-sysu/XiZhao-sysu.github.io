@@ -214,7 +214,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .box_right{
   width: 66%;
-  background-color: #ddd;
+  /* background-color: #ddd; */
   float:right;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
@@ -222,7 +222,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .box_left{
   width: 66%;
-  background-color: #ddd;
+  /* background-color: #ddd; */
   float:left;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
@@ -263,7 +263,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .up_right_box{
   width:50%;
   float:right;
-  line-height: 50px;
+  line-height: 60px;
   text-align: right;
   /* background-color: purple; */
   font-size: 80%;
@@ -284,7 +284,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   margin: 10px auto;        /* 容器居中（按需修改） */
   padding-left: 10px;       /* 控制左侧缩进 */
   list-style-type: disc;    /* 强制显示圆点（默认值，可省略） */
-  line-height: 50px;
+  line-height: 40px;
 }
 .down_left_box ul li{
   font-size: 80%;
