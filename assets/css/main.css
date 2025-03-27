@@ -275,6 +275,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   float:left;
   background-color: yellow;
   font-size: 100%;
+  align-items:center;
 }
 .down_left_box ul{
   margin-block-start: 0;
