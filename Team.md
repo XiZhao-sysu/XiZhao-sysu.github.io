@@ -49,7 +49,7 @@ title: Team
 
   <div class="image-text-item">
     <div class="box_left">
-      <div class="up_div">
+        <div class="up_div">
           <div class="up_left_box">
             <p>李博</p>
           </div>
@@ -68,7 +68,7 @@ title: Team
             </ul>
           </div>
           <div class="down_right_box">
-            <p><a href="https://yujiang-sysu.github.io/blogs/slj">查看详情</a></p>
+            <p><a href="https://yujiang-sysu.github.io/blogs/lb">查看详情</a></p>
           </div>
         </div>
     </div>
@@ -78,16 +78,87 @@ title: Team
   <div class="image-text-item">
     <img src="https://yujiang-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
     <div class="box_right">
-      <p>插入一段文字。</p>
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>吴怡凡</p>
+          </div>
+          <div class="up_right_box">
+            <p>博士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：wuyf235@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/wyf">查看详情</a></p>
+          </div>
+        </div>
     </div>
   </div>
 
   <div class="image-text-item">
     <div class="box_left">
-        <p> </p>
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>龚家兴</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：gongjx7@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/gjx">查看详情</a></p>
+          </div>
+        </div>
     </div>
     <img src="https://yujiang-sysu.github.io//images/teams/gongjiaxing.jpg" alt="龚家兴" class="img_right">
   </div>
+
+  <div class="image-text-item">
+    <img src="https://yujiang-sysu.github.io//images/teams/geziteng.jpg" alt="葛紫腾" class="img_left">
+    <div class="box_right">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>葛紫腾</p>
+          </div>
+          <div class="up_right_box">
+            <p>博士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：wuyf235@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io/blogs/gzt">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+  </div>
+
 
 </div>
 

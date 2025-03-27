@@ -4,7 +4,7 @@ permalink: /blogs/wyf/index.html
 title: wfy
 ---
 
-## 李博
+## 吴怡凡
 
 <img src="/blogs/team_members.assets/wuyifan.png">
 
