@@ -91,7 +91,7 @@ a:hover{color:#1a1a1a;}
 a:focus{outline:thin dotted;color:#343434;}
 a:hover,a:active{outline:0;}
 b,strong{font-weight:700;}
-ul li{list-style-type:decimal;}
+ul li{list-style-type:disc;}
 ol li{list-style-type:decimal;}
 p>a,li>a,em>a,a>em,footer a{text-decoration:none;border-bottom:1px dotted #b3b3b1;}
 p>a:hover,li>a:hover,em>a:hover,footer a:hover{text-decoration:none;border-bottom:1px solid #b3b3b1;}

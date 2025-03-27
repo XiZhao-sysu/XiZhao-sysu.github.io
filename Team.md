@@ -41,7 +41,7 @@ title: Team
             </ul>
           </div>
           <div class="down_right_box">
-            <p><a href="https://yujiang-sysu.github.io//blogs/slj">查看详情</a></p>
+            <p><a href="https://yujiang-sysu.github.io/blogs/slj">查看详情</a></p>
           </div>
         </div>
     </div>

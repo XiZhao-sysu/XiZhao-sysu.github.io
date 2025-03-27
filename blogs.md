@@ -6,7 +6,7 @@ title: Blogs
 
 ## 团队成员
 
-- [宋利娟](https://yujiang-sysu.github.io//blogs/slj)
+- [宋利娟](https://yujiang-sysu.github.io/blogs/slj)
 
 <!-- ### 2024
 
