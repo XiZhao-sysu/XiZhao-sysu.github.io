@@ -231,7 +231,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .up_div{
   width:100%;
   height:60px;
-  background-color: red;
+  /* background-color: red; */
   float:left;
   line-height: 60px; /* 等于容器高度 */
   padding-left: 10px;
@@ -242,12 +242,12 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   width: 100%;
   float: left;
   height: 20px;
-  background-color: #008080;
+  /* background-color: #008080; */
 }
 .down_div{
   width:100%;
   height:100px;
-  background-color: green;
+  /* background-color: green; */
   float:left;
   display: flex;
   padding-right: 10px;
@@ -258,14 +258,14 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   float:left;
   line-height: 60px;
   text-align: left;
-  background-color: yellow;
+  /* background-color: yellow; */
 }
 .up_right_box{
   width:50%;
   float:right;
   line-height: 50px;
   text-align: right;
-  background-color: purple;
+  /* background-color: purple; */
   font-size: 80%;
 }
 .up_div p{
@@ -274,7 +274,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .down_left_box{
   width: 75%;
   float:left;
-  background-color: yellow;
+  /* background-color: yellow; */
   font-size: 100%;
   align-items:center;
 }
@@ -294,7 +294,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .down_right_box{
   width: 25%;
   float:right;
-  background-color: purple;
+  /* background-color: purple; */
   display: flex;
   justify-content: flex-end;  /* 水平靠右 */
   align-items: flex-end;      /* 垂直靠下 */
