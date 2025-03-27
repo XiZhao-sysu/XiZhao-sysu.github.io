@@ -245,7 +245,18 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 }
 .up_right_text{
   text-align: right;
-
+}
+.up_left_box{
+  width:50%;
+  float:left;
+  line-height: 80px;
+  text-align: left;
+}
+.up_right_box{
+  width:50%;
+  float:right;
+  line-height: 80px;
+  text-align: right;
 }
 .up_div p{
   margin: 0 0;
