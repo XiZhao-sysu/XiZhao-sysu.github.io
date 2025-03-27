@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/team members/index.html
+permalink: /blogs/team_members/index.html
 title: slj
 ---
 
