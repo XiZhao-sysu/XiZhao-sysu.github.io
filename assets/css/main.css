@@ -245,9 +245,6 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   float:left;
   display: flex;
 }
-.up_right_text{
-  text-align: right;
-}
 .up_left_box{
   width:50%;
   float:left;
@@ -261,13 +258,25 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   line-height: 60px;
   text-align: right;
   background-color: purple;
+  font-size: 80%;
 }
 .up_div p{
   margin: 0 0;
 }
 .down_left_box{
   width: 50%;
+  float:left;
+  background-color: yellow;
 }
+.down_right_box{
+  width: 50%;
+  float:right;
+  background-color: purple;
+  display: flex;
+  justify-content: flex-end;  /* 水平靠右 */
+  align-items: flex-end;      /* 垂直靠下 */
+}
+
 
 .btn{display:inline-block;display:inline;zoom:1;padding:12px 24px;margin-bottom:2em;line-height:1;text-align:center;text-transform:uppercase;vertical-align:middle;border:4px double #333332;-webkit-border-radius:50px;-moz-border-radius:50px;border-radius:50px;cursor:pointer;margin-left:.3em;-webkit-transition:0.4s linear;-moz-transition:0.4s linear;-ms-transition:0.4s linear;-o-transition:0.4s linear;transition:0.4s linear;}.btn:visited{border:4px double #4e4e4e;}
 .btn:hover{border:4px double #1a1a1a;}

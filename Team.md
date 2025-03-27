@@ -33,6 +33,15 @@ title: Team
         <div class = "down_div">
           <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
           <p> </p>
+          <div class="down_left_box">
+            <ul>
+              <li>电话：</li>
+              <li>邮箱：songlj7@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://yujiang-sysu.github.io//blogs//team members//slj">查看详情</a></p>
+          </div>
         </div>
     </div>
   </div>
