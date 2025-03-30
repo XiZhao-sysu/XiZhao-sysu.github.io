@@ -3,12 +3,12 @@ layout: page
 ---
 
 ## 团队公告板
-- 2024.10
+- 2024.10<br>
 <img src="https://yujiang-sysu.github.io//images/teams/team_with_dalianligong.jpg" style="width:100%">
 <p class="description_img">团队成员与大连理工大学团队合影</p>
 
 
-- 2024.11
+- 2024.11<br>
 <img src="https://yujiang-sysu.github.io//images/teams/team_with_alfred_stein.jpg" style="width:100%">
 <p class="description_img">赵羲及其团队成员与Alfred Stein教授聚餐</p>
 
