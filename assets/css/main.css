@@ -189,7 +189,7 @@ svg:not(:root){overflow:hidden;}
 img.floatpic_right{float:right; margin-left:1em; width:33%;}
 img.floatpic_left{float:left; margin-right:1em; width:33%}
 .description_img{
-  align-content: center;
+  text-align: center;
 }
 .image-text-container{
   display: flex;
