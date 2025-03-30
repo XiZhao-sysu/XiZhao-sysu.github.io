@@ -5,7 +5,7 @@ layout: page
 ## 团队公告板
 - 2024.10<br>
 <img src="https://xizhao-sysu.github.io//images/teams/team_with_dalianligong.jpg" style="width:100%">
-<p class="description_img">团队成员与大连理工大学团队合影</p>
+<div class="description_img">团队成员与大连理工大学团队合影</div>
 
 
 - 2024.11<br>
