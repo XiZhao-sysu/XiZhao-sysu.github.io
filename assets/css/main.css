@@ -191,8 +191,8 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
 .description_img{
   width: 100%;
   height: 50px;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* display: grid;
+  grid-template-columns: 1fr 1fr; */
   text-align: center;
 }
 .image-text-container{
