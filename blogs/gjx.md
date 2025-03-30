@@ -6,7 +6,7 @@ title: gjx
 
 ## 龚家兴
 
-<img src="/blogs/team_members.assets/gongjiaxing.jpg" class="floatpic_left"><br>
+<img src="/blogs/team_members.assets/gongjiaxing.jpg" style="width:33%">
 
 ### 教育背景
 
