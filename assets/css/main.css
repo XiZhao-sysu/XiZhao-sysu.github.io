@@ -189,11 +189,9 @@ svg:not(:root){overflow:hidden;}
 img.floatpic_right{float:right; margin-left:1em; width:33%;}
 img.floatpic_left{float:left; margin-right:1em; width:33%}
 .description_img{
-  display: grid;
-  grid-template-columns: 1fr 1fr;  /* 左右平分宽度 */
-  align-items: center;            /* 垂直居中 */
-  height: 50px;
-  border: 1px solid #eee;
+  display: flex; 
+  height: 50px; 
+  align-items: center;
 }
 .image-text-container{
   display: flex;
