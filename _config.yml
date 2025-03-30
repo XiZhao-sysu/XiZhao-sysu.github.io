@@ -2,14 +2,14 @@ title: 赵羲
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://XiZhao-sysu.github.io
+url: https://xizhao-sysu.github.io
 
 # Owner/author information
 owner:
   name: Xi Zhao
   avatar: zhaoxi_headpicture.jpg
   email: zhaoxi6@mail.sysu.edu.cn
-  github: XiZhao-sysu
+  github: xizhao-sysu
 
 
 # Analytics and webmaster tools stuff goes here
