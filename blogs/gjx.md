@@ -34,10 +34,10 @@ title: gjx
 公众号报道链接：[https://mp.weixin.qq.com/s/2wNm7RQJct54ixKiEShiLA](https://mp.weixin.qq.com/s/2wNm7RQJct54ixKiEShiLA)
 
 
--Zhao, X., Gong, J., Qu, M., Song, L., & Cheng, X. (2025). Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 316, 114517. 10.1016/j.rse.2024.114517
+- Zhao, X., Gong, J., Qu, M., Song, L., & Cheng, X. (2025). Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 316, 114517. 10.1016/j.rse.2024.114517
 <img src="/blogs/gjx/RSE.png" style="width:100%">
 针对现有LF反演算法在普适性和精度上的不足，本研究提出了一种基于水道统计分布权重的人工神经网络（LF-ANN）模型，并在原有算法依赖高通滤波器获得的亮温异常值基础上引入原始亮温信息作为输入。结果表明，LF-ANN模型在不同季节和区域具有较高的精度，并且通过去除固定系点的限制，能够探测到更多水道的存在。在有限数据集训练下，模型在水道密集区的独立测试结果与训练集相当，表明其具有良好的泛化能力。改进后的LF-ANN模型在一年冰区捕捉到了更多水道存在。<br>
-公众号报道链接：[https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw](https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw )
+公众号报道链接：[https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw](https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw)
 
 
 其他论文见：[https://www.researchgate.net/profile/Jiaxing-Gong](https://www.researchgate.net/profile/Jiaxing-Gong)
