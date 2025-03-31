@@ -6,9 +6,10 @@ layout: page
 - 2024.10  
 
 <img src="/images/teams/team_with_dalianligong.jpg" style="width:100%">
-<div class="description_img">
+<span>团队成员与大连理工大学团队合影</span>
+<!-- <div class="description_img">
     <p>团队成员与大连理工大学团队合影</p>
-</div>
+</div> -->
 
 - 2024.11  
 
