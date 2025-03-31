@@ -291,7 +291,7 @@ img.floatpic_left{float:left; margin-right:1em; width:33%}
   margin: 10px auto;        /* 容器居中（按需修改） */
   padding-left: 10px;       /* 控制左侧缩进 */
   list-style-type: none;    /* 强制显示圆点（默认值，可省略） */
-  line-height: 30px;
+  line-height: 20px;
 }
 .down_left_box ul li{
   font-size: 80%;
