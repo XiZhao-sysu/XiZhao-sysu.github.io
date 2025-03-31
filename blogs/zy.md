@@ -6,7 +6,7 @@ title: zy
 
 ## 张翼
 
-<img src="/blogs/team_members.assets/zhangyi.png">
+<img src="/blogs/team_members.assets/zhangyi1.png">
 
 ### 教育背景
 

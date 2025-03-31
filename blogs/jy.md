@@ -6,7 +6,7 @@ title: jy
 
 ## 江宇
 
-<img src="/blogs/team_members.assets/jiangyu.jpg">
+<img src="/blogs/team_members.assets/jiangyu1.png">
 
 ### 教育背景
 

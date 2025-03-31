@@ -9,7 +9,7 @@ title: Team
 
 <div class="image-text-container">
   <div class="image-text-item">
-    <img src="https://xizhao-sysu.github.io//images/teams/songlijuan.jpg" alt="宋利娟" class="img_left">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/songlijuan1.png" alt="宋利娟" class="img_left">
     <div class="box_right">
         <div class="up_div">
           <div class="up_left_box">
@@ -61,11 +61,11 @@ title: Team
           </div>
         </div>
     </div>
-    <img src="https://xizhao-sysu.github.io//images/teams/libo.jpg" alt="李博" class="img_right">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/libo1.png" alt="李博" class="img_right">
   </div>
 
   <div class="image-text-item">
-    <img src="https://xizhao-sysu.github.io//images/teams/wuyifan.jpg" alt="吴怡凡" class="img_left">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/wuyifan1.png" alt="吴怡凡" class="img_left">
     <div class="box_right">
         <div class="up_div">
           <div class="up_left_box">
@@ -117,11 +117,11 @@ title: Team
           </div>
         </div>
     </div>
-    <img src="https://xizhao-sysu.github.io//images/teams/gongjiaxing.jpg" alt="龚家兴" class="img_right">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/gongjiaxing1.png" alt="龚家兴" class="img_right">
   </div>
 
   <div class="image-text-item">
-    <img src="https://xizhao-sysu.github.io//images/teams/geziteng.jpg" alt="葛紫腾" class="img_left">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/geziteng1.png" alt="葛紫腾" class="img_left">
     <div class="box_right">
         <div class="up_div">
           <div class="up_left_box">
@@ -173,11 +173,11 @@ title: Team
           </div>
         </div>
     </div>
-    <img src="https://xizhao-sysu.github.io//images/teams/zhangyi.jpg" alt="张翼" class="img_right">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/zhangyi1.png" alt="张翼" class="img_right">
   </div>
 
   <div class="image-text-item">
-    <img src="https://xizhao-sysu.github.io//images/teams/jiangyu1.jpg" alt="江宇" class="img_left">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/jiangyu1.png" alt="江宇" class="img_left">
     <div class="box_right">
         <div class="up_div">
           <div class="up_left_box">
@@ -229,7 +229,7 @@ title: Team
           </div>
         </div>
     </div>
-    <img src="https://xizhao-sysu.github.io//images/teams/luchunyun.jpg" alt="卢淳芸" class="img_right">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/luchunyun1.png" alt="卢淳芸" class="img_right">
   </div>
 
 </div>

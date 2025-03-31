@@ -6,7 +6,7 @@ title: lb
 
 ## 李博
 
-<img src="/blogs/team_members.assets/libo.png">
+<img src="/blogs/team_members.assets/libo1.png">
 
 ### 教育背景
 
