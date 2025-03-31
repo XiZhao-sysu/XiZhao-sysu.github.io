@@ -6,7 +6,6 @@ layout: page
 - 2024.10  
 
 <img src="/images/teams/team_with_dalianligong.jpg" style="width:100%">
-
 <div class="description_img">
     <p>团队成员与大连理工大学团队合影</p>
 </div>
@@ -14,7 +13,6 @@ layout: page
 - 2024.11  
 
 <img src="https://xizhao-sysu.github.io//images/teams/team_with_alfred_stein.jpg" style="width:100%">
-
 <div class="description_img">
     <p>赵羲及其团队成员与Alfred Stein教授聚餐</p>
 </div>
