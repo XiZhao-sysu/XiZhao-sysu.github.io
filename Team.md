@@ -25,7 +25,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：极地海冰遥感</li>
               <li>邮箱：songlj7@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -52,7 +52,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：船舶冰区航行环境监测与辅助导航</li>
               <li>邮箱：libo97@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -81,7 +81,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：南极冰间湖与叶绿素</li>
               <li>邮箱：wuyf235@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -108,7 +108,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：发展基于被动微波遥感的北极冰间水道探测方法</li>
               <li>邮箱：gongjx7@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -137,7 +137,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：南极罗斯海区域冰间湖产冰量</li>
               <li>邮箱：gezt@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -164,7 +164,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：基于SAR影像的北极冰间水道识别</li>
               <li>邮箱：zhangy2679@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -193,7 +193,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：基于船载影像的海冰类型识别</li>
               <li>邮箱：jiangy269@mail2.sysu.edu.cn</li>
             </ul>
           </div>
@@ -220,7 +220,7 @@ title: Team
         <div class = "down_div">
           <div class="down_left_box">
             <ul>
-              <li>电话：</li>
+              <li>研究方向：基于热红外影像的冰间水道提取</li>
               <li>邮箱：luchy26@mail2.sysu.edu.cn</li>
             </ul>
           </div>
