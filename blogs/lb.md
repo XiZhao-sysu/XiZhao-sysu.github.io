@@ -38,7 +38,7 @@ title: lb
 
 本研究通过卫星遥感影像构建了北极浮冰区船舶航行的环境，并对船舶航行具有较高碰撞风险的海冰进行了可视化预警。中国海事局发布的北极航行指南指出，船舶在冰区航行时应尽量避开大型浮冰的中心区域，因为这些区域相比于边缘区域存在更多潜在风险。依据该航行建议，本研究提出了一种新的可变速度障碍算法（Flexibility Velocity Obstacles, FVO）算法。该算法能够根据船舶所处的动态环境对安全距离进行实时调整，并基于该算法开发出一个适用于北极浮冰区的船舶航行决策支持模型。该模型能够有效帮助船舶减少与浮冰的碰撞，同时指导船舶避开大面积浮冰的中心区域，降低船舶破冰难度，保障浮冰区航行的安全性和经济性。
 
-链接：[https://www.sciencedirect.com/science/article/pii/S0029801824021814](https://www.sciencedirect.com/science/article/pii/S0029801824021814)
+链接：[https://mp.weixin.qq.com/s/niVrsSOMqlZW23U6zlLiJw](https://mp.weixin.qq.com/s/niVrsSOMqlZW23U6zlLiJw)
 
 
 
