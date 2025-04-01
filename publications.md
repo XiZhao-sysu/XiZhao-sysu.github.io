@@ -8,29 +8,31 @@ title: Publications
 
 ## 代表性论著
 
-1. **Xi Zhao**, Jiaxing Gong, Meng Qu, Lijuan Song, Xiao Cheng. Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 2025. 316, 114517
+- Gong, J., Song, L., **Zhao, X**., Rinke, A., Wang, X., Wu, Y., … & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
-2. Bo Li, Jiaxing Gong, **Xi Zhao**, Xiao Cheng. Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm. Ocean Engineering. 2024, 311,118843
+- **Xi Zhao**, Jiaxing Gong, Meng Qu, Lijuan Song, Xiao Cheng. Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 2025. 316, 114517
 
-3. Yifan Wu, Yu Jiang, Yi Zhang, Yichen Li, Xin Chen, Wenqian Zhang, **Xi Zhao**. Reconstruction of 2-m Air Temperature From ERA5 Reanalysis at Dome A, Antarctica. International Journal of Climatology, 2024, 0:1-10，[https://doi.org/10.1002/joc.8722](https://doi.org/10.1002/joc.8722)
+- Bo Li, Jiaxing Gong, **Xi Zhao**, Xiao Cheng. Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm. Ocean Engineering. 2024, 311,118843
 
-4. Lijuan Song, Yifan Wu, Jiaxing Gong, Pei Fan, Xiaopo Zheng and **Xi Zhao**. Improvement of Ice Surface Temperature Retrieval by Integrating Landsat 8/TIRS and Operation IceBridge Observations. Remote Sensing. 2023. 15, 4577.
+- Yifan Wu, Yu Jiang, Yi Zhang, Yichen Li, Xin Chen, Wenqian Zhang, **Xi Zhao**. Reconstruction of 2-m Air Temperature From ERA5 Reanalysis at Dome A, Antarctica. International Journal of Climatology, 2024, 0:1-10，[https://doi.org/10.1002/joc.8722](https://doi.org/10.1002/joc.8722)
 
-5. **Xi Zhao**, Yue Liu, Xiaoping Pang, Qing Ji, Alfred Stein, Xiao Cheng, Ying Chen. Concept-driven extraction of the Antarctic marginal sea ice zone from remote sensing image time series. Spatial Statistics. 2022. 100578, DOI:10.1016/j.spasta.2021.100578.
+- Lijuan Song, Yifan Wu, Jiaxing Gong, Pei Fan, Xiaopo Zheng and **Xi Zhao**. Improvement of Ice Surface Temperature Retrieval by Integrating Landsat 8/TIRS and Operation IceBridge Observations. Remote Sensing. 2023. 15, 4577.
 
-6. **Xi Zhao**, Ying Chen, Stefan Kern, Meng Qu, Qing Ji*, Pei Fan and Yue Liu. Sea ice concentration derived from FY-3D MWRI and its accuracy assessment, IEEE Transactions on Geoscience and Remote Sensing, 2022, 60, 1-18. Doi: 10.1109/TGRS.2021.3063272
+- **Xi Zhao**, Yue Liu, Xiaoping Pang, Qing Ji, Alfred Stein, Xiao Cheng, Ying Chen. Concept-driven extraction of the Antarctic marginal sea ice zone from remote sensing image time series. Spatial Statistics. 2022. 100578, DOI:10.1016/j.spasta.2021.100578.
 
-7. Thomas Lavergne, Stefan Kern, et al. and **Xi Zhao**. A New Structure for the Sea Ice Essential Climate Variables of the Global Climate Observing System. Bulletin of the American Meteorological Society, 2022, DOI: 10.1175/BAMS-D-21-0227.1.
+- **Xi Zhao**, Ying Chen, Stefan Kern, Meng Qu, Qing Ji*, Pei Fan and Yue Liu. Sea ice concentration derived from FY-3D MWRI and its accuracy assessment, IEEE Transactions on Geoscience and Remote Sensing, 2022, 60, 1-18. Doi: 10.1109/TGRS.2021.3063272
 
-8. Meng Qu, Xiaoping Pang, **Xi Zhao**, Ruibo Lei, Qing Ji, Yue Liu and Ying Chen. Spring leads in the Beaufort Sea and its interannual trend using Terra/ MODIS thermal imagery. Remote Sensing of Environment, 2021, 256, 112342.
+- Thomas Lavergne, Stefan Kern, et al. and **Xi Zhao**. A New Structure for the Sea Ice Essential Climate Variables of the Global Climate Observing System. Bulletin of the American Meteorological Society, 2022, DOI: 10.1175/BAMS-D-21-0227.1.
 
-9. Yue Liu, Xiaoping Pang*, **Xi Zhao**, Alfred Stein, Xiang Zhang, Qing Ji, Meng Qu, Jiang Dong. Prediction of the Antarctic Marginal ICE Zone Extent Based upon its Multifractal Property. Fractals, 2021, 29(2), 2150035.
+- Meng Qu, Xiaoping Pang, **Xi Zhao**, Ruibo Lei, Qing Ji, Yue Liu and Ying Chen. Spring leads in the Beaufort Sea and its interannual trend using Terra/ MODIS thermal imagery. Remote Sensing of Environment, 2021, 256, 112342.
 
-10. Qing Ji, Ying Liu, Xiaoping Pang, Yue Pan, **Xi Zhao**. Characterization of sea ice and its snow cover in the Arctic Pacific Sector during the summer of 2016, Acta Oceanologica Sinica, 2021,40(1):33-42.
+- Yue Liu, Xiaoping Pang*, **Xi Zhao**, Alfred Stein, Xiang Zhang, Qing Ji, Meng Qu, Jiang Dong. Prediction of the Antarctic Marginal ICE Zone Extent Based upon its Multifractal Property. Fractals, 2021, 29(2), 2150035.
 
-11. Pei Fan, Xiaoping Pang, **Xi Zhao**, Mohammed Shokr, Ruibo Lei, Meng Qu, Qing Ji, Minghu Ding. Sea ice surface temperature retrieval from Landsat 8/TIRS: Evaluation of five methods against in situ temperature records and MODIS IST in Arctic region. Remote Sensing of Environment, 2020, 248, 111975.
+- Qing Ji, Ying Liu, Xiaoping Pang, Yue Pan, **Xi Zhao**. Characterization of sea ice and its snow cover in the Arctic Pacific Sector during the summer of 2016, Acta Oceanologica Sinica, 2021,40(1):33-42.
 
-12. Meng Qu, Xiaoping Pang, **Xi Zhao**, Jinlun Zhang, Qing Ji, and Pei Fan. Estimation of turbulent heat flux over leads using satellite thermal images. The Cryosphere, 2019, 13, 1565–1582.
+- Pei Fan, Xiaoping Pang, **Xi Zhao**, Mohammed Shokr, Ruibo Lei, Meng Qu, Qing Ji, Minghu Ding. Sea ice surface temperature retrieval from Landsat 8/TIRS: Evaluation of five methods against in situ temperature records and MODIS IST in Arctic region. Remote Sensing of Environment, 2020, 248, 111975.
+
+- Meng Qu, Xiaoping Pang, **Xi Zhao**, Jinlun Zhang, Qing Ji, and Pei Fan. Estimation of turbulent heat flux over leads using satellite thermal images. The Cryosphere, 2019, 13, 1565–1582.
 
 <!-- ---
 
