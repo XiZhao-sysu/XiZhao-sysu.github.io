@@ -4,7 +4,17 @@ layout: page
 
 ## 团队公告板
 
-- 2024.3.18 
+- 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
+<div class="gallery">
+  <a href="/images/ZX/retire1.jpg" class="mfp-gallery">
+    <img src="/images/ZX/retire1.jpg" alt="Image 1">
+  </a>
+  <a href="/images/ZX/retire2.jpg" class="mfp-gallery"></a>
+  <a href="/images/ZX/retire3.jpg" class="mfp-gallery"></a>
+  <a href="/images/ZX/retire4.jpg" class="mfp-gallery"></a>
+</div>
+
+- 2025.3.18 北京师范大学珠海校区，极地科普讲座  “走近极地科考”
 
 <div class="gallery">
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
@@ -12,10 +22,9 @@ layout: page
   </a>
   <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery"></a>
   <a href="/images/ZX/jiangzuo3.jpg" class="mfp-gallery"></a>
-  <!-- <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery">
-    <img src="/images/ZX/jiangzuo2.jpg" alt="Image 2">
-  </a> -->
+  <a href="/images/ZX/jiangzuo4.jpg" class="mfp-gallery"></a>
 </div>
+
 
 <!-- <div class="banner">
     <div class="wrap">
