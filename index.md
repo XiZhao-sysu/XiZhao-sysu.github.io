@@ -10,8 +10,8 @@ layout: page
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
     <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
   </a>
-  <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
-    <img src="/images/ZX/jiangzuo1.jpg" alt="Image 2">
+  <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery">
+    <img src="/images/ZX/jiangzuo2.jpg" alt="Image 2">
   </a>
 </div>
 
