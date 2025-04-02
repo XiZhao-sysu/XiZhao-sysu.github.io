@@ -1616,6 +1616,7 @@ $.magnificPopup.registerModule('gallery', {
       });
 
     }, 
+    
     next: function() {
       mfp.direction = true;
       mfp.index = _getLoopedId(mfp.index + 1);

@@ -3,6 +3,31 @@ layout: page
 ---
 
 ## 团队公告板
+
+- 2024.3.18 
+
+<div class="banner">
+        <div class="wrap">
+            <div class="banner-box">
+                <div class="slide-banner">
+                    <img src="/images/ZX/jiangzuo1.jpg" alt="" id="img">
+                    <a href="javascript:;" class="prev"></a>
+                    <a href="javascript:;" class="next"></a>
+                    <ul class="banner-btn">
+                        <li class="btn-active"></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                        <li></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+
 - 2024.10  团队成员与大连理工大学团队合影
 
 <img src="/images/teams/team_with_dalianligong.jpg" style="width:100%">
