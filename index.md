@@ -9,11 +9,11 @@ layout: page
 <div class="gallery">
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
     <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
+    <!-- <img src="/images/ZX/jiangzuo2.jpg" alt="Image 2"> -->
+  </a>
+  <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery">
     <img src="/images/ZX/jiangzuo2.jpg" alt="Image 2">
   </a>
-  <!-- <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery">
-    <img src="/images/ZX/jiangzuo2.jpg" alt="Image 2">
-  </a> -->
 </div>
 
 <!-- <div class="banner">
