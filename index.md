@@ -6,27 +6,37 @@ layout: page
 
 - 2024.3.18 
 
-<div class="banner">
-        <div class="wrap">
-            <div class="banner-box">
-                <div class="slide-banner">
-                    <img src="/images/ZX/jiangzuo1.jpg" alt="" id="img">
-                    <a href="javascript:;" class="prev"></a>
-                    <a href="javascript:;" class="next"></a>
-                    <ul class="banner-btn">
-                        <li class="btn-active"></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                        <li></li>
-                    </ul>
-                </div>
+<div class="gallery">
+  <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
+    <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
+  </a>
+  <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
+    <img src="/images/ZX/jiangzuo1.jpg" alt="Image 2">
+  </a>
+</div>
+
+<!-- <div class="banner">
+    <div class="wrap">
+        <div class="banner-box">
+            <div class="slide-banner">
+                <img src="/images/ZX/jiangzuo1.jpg" alt="" id="img">
+                <a href="javascript:;" class="prev"></a>
+                <a href="javascript:;" class="next"></a>
+                <ul class="banner-btn">
+                    <li class="btn-active"></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                    <li></li>
+                </ul>
             </div>
         </div>
     </div>
+</div> -->
+
 
 - 2024.10  团队成员与大连理工大学团队合影
 
