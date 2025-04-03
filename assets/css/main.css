@@ -209,15 +209,18 @@ span{
   width: 100%;
   height: 30px;
   line-height: 30px;
+  float: left;
 }
 .board_middle{
   width: 100%;
   height: 200px;
+  float: left;
 }
 .board_down{
   width: 100%;
   height: 60px;
   line-height: 30px;
+  float: left;
 }
 
 .description_img{
