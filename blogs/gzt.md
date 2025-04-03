@@ -6,7 +6,7 @@ title: gzt
 
 ## 葛紫腾
 
-<img src="/blogs/team_members.assets/geziteng1.png">
+<img src="/blogs/team_members.assets/geziteng1.png" style="width:50%">
 
 ### 教育背景
 

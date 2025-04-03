@@ -6,7 +6,7 @@ title: wfy
 
 ## 吴怡凡
 
-<img src="/blogs/team_members.assets/wuyifan1.png">
+<img src="/blogs/team_members.assets/wuyifan1.png" style="width:50%">
 
 ### 教育背景
 

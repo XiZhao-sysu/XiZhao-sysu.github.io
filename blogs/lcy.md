@@ -6,7 +6,7 @@ title: lcy
 
 ## 卢淳芸
 
-<img src="/blogs/team_members.assets/luchunyun1.png">
+<img src="/blogs/team_members.assets/luchunyun1.png" style="width:50%">
 
 ### 教育背景
 

@@ -5,6 +5,34 @@ layout: page
 
 ## 团队公告板
 
+<div class="board">
+  <div class="board_item">
+    <div class="board_up">
+      <p>2025.3.25~2025.3.30</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery1">
+        <a href="/images/ZX/retire1.jpg" class="mfp-gallery1">
+          <img src="/images/ZX/retire1.jpg" alt="Image 1">
+        </a>
+        <a href="/images/ZX/retire2.jpg" class="mfp-gallery1"></a>
+        <a href="/images/ZX/retire3.jpg" class="mfp-gallery1"></a>
+        <a href="/images/ZX/retire4.jpg" class="mfp-gallery1"></a>
+      </div>   
+    </div>
+    <div class="board_down">
+    <p>荷兰ITC参加博士导师Alfred Stein荣休学术研讨会</p>
+    </div>
+  </div>
+  <div class="board_item">
+  </div>
+  <div class="board_item">
+  </div>
+  <div class="board_item">
+  </div>
+</div>
+
+
 - 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
 <div class="gallery1">
   <a href="/images/ZX/retire1.jpg" class="mfp-gallery1">
@@ -27,44 +55,16 @@ layout: page
 </div>
 
 
-<!-- <div class="banner">
-    <div class="wrap">
-        <div class="banner-box">
-            <div class="slide-banner">
-                <img src="/images/ZX/jiangzuo1.jpg" alt="" id="img">
-                <a href="javascript:;" class="prev"></a>
-                <a href="javascript:;" class="next"></a>
-                <ul class="banner-btn">
-                    <li class="btn-active"></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                    <li></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-</div> -->
-
 
 - 2024.10  团队成员与大连理工大学团队合影
 
 <img src="/images/teams/team_with_dalianligong.jpg" style="width:100%">
 <span></span>
-<!-- <div class="description_img">
-    <p>团队成员与大连理工大学团队合影</p>
-</div> -->
+
 
 - 2024.11  赵羲及其团队成员与Alfred Stein教授聚餐
 
 <img src="https://xizhao-sysu.github.io//images/teams/team_with_alfred_stein.jpg" style="width:100%">
-<!-- <div class="description_img">
-    <p>赵羲及其团队成员与Alfred Stein教授聚餐</p>
-</div> -->
-
 
 
 荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。在紧凑的学术研讨后，特别准备了潮汕牛肉火锅作为文化体验。
