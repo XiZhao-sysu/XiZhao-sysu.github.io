@@ -12,5 +12,28 @@
 
 </script>
 
+<script>
+  $(document).ready(function() {
+    $('.gallery1').magnificPopup({
+      delegate: 'a.mfp-gallery1',
+      type: 'image',
+      gallery: {
+        enabled: true, // 启用画廊模式
+        navigateByImgClick: true,
+        preload: [0, 1] // 预加载前后图片
+      }
+      });
+    $('.gallery2').magnificPopup({
+      delegate: 'a.mfp-gallery2',
+      type: 'image',
+      gallery: {
+        enabled: true, // 启用画廊模式
+        navigateByImgClick: true,
+        preload: [0, 1] // 预加载前后图片
+      }
+    });
+  });
+  </script>
+
 <!-- https://analytics.google.com/analytics/ -->
 <!-- Lastly modified by Hanlin CAI in 2023/01/15 -->
