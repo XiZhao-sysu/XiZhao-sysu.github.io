@@ -203,6 +203,7 @@ span{
   display: flex;
   padding: 1em 1em;
   background-color: red;
+  position: relative;
 }
 .board_up{
   width: 100%;
