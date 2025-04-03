@@ -2,10 +2,33 @@
 layout: page
 ---
 
+<script>
+$(document).ready(function() {
+  $('.gallery1').magnificPopup({
+    delegate: 'a.mfp-gallery1',
+    type: 'image',
+    gallery: {
+      enabled: true, // 启用画廊模式
+      navigateByImgClick: true,
+      preload: [0, 1] // 预加载前后图片
+    }
+    });
+  $('.gallery2').magnificPopup({
+    delegate: 'a.mfp-gallery2',
+    type: 'image',
+    gallery: {
+      enabled: true, // 启用画廊模式
+      navigateByImgClick: true,
+      preload: [0, 1] // 预加载前后图片
+    }
+  });
+});
+</script>
+
 ## 团队公告板
 
 - 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
-<div class="gallery">
+<div class="gallery1">
   <a href="/images/ZX/retire1.jpg" class="mfp-gallery">
     <img src="/images/ZX/retire1.jpg" alt="Image 1">
   </a>
@@ -16,7 +39,7 @@ layout: page
 
 - 2025.3.18 北京师范大学珠海校区，极地科普讲座  “走近极地科考”
 
-<div class="gallery">
+<div class="gallery2">
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery">
     <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
   </a>
