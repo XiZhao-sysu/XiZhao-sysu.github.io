@@ -39,7 +39,7 @@ layout: page
       </div> 
     </div>
     <div class="board_down">
-    <p>团队成员与大连理工大学团队合影</p>
+    <p>北京师范大学珠海校区，极地科普讲座  “走近极地科考”</p>
     </div>
   </div>
   <div class="board_item">
@@ -54,7 +54,7 @@ layout: page
       </div>
     </div>
     <div class="board_down">
-      荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。在紧凑的学术研讨后，特别准备了潮汕牛肉火锅作为文化体验。
+      荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。
     </div>
   </div>
   <div class="board_item">
