@@ -22,7 +22,7 @@ layout: page
     </div>
     <div class="board_down">
     <p>荷兰ITC参加博士导师Alfred Stein荣休学术研讨会</p>
-  </div>
+    </div>
   </div>
   <div class="board_item">
   </div>
