@@ -21,19 +21,61 @@ layout: page
       </div>   
     </div>
     <div class="board_down">
-    <p>荷兰ITC参加博士导师Alfred Stein荣休学术研讨会</p>
+    <p>荷兰ITC参加博士导师[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)荣休学术研讨会</p>
     </div>
   </div>
   <div class="board_item">
+    <div class="board_up">
+      <p>2025.3.18</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery2">
+        <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery2">
+          <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
+        </a>
+        <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery2"></a>
+        <a href="/images/ZX/jiangzuo3.jpg" class="mfp-gallery2"></a>
+        <a href="/images/ZX/jiangzuo4.jpg" class="mfp-gallery2"></a>
+      </div> 
+    </div>
+    <div class="board_down">
+    <p>团队成员与大连理工大学团队合影</p>
+    </div>
   </div>
   <div class="board_item">
+    <div class="board_up">
+      <p> 2024.11</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery3">
+        <a href="/images/teams/team_with_alfred_stein.jpg" class="mfp-gallery3">
+          <img src="/images/teams/team_with_alfred_stein.jpg" alt="Image 1">
+        </a>
+      </div>
+    </div>
+    <div class="board_down">
+      荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。在紧凑的学术研讨后，特别准备了潮汕牛肉火锅作为文化体验。
+    </div>
   </div>
   <div class="board_item">
+    <div class="board_up">
+      <p> 2024.11</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery4">
+        <a href="/images/teams/team_with_dalianligong.jpg" class="mfp-gallery4">
+          <img src="/images/teams/team_with_dalianligong.jpg" alt="Image 1">
+        </a>
+      </div>
+    </div>
+    <div class="board_down">
+      团队成员与大连理工大学团队合影
+    </div>
   </div>
 </div>
 
 
-- 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
+<!-- - 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
 <div class="gallery1">
   <a href="/images/ZX/retire1.jpg" class="mfp-gallery1">
     <img src="/images/ZX/retire1.jpg" alt="Image 1">
@@ -59,15 +101,14 @@ layout: page
 - 2024.10  团队成员与大连理工大学团队合影
 
 <img src="/images/teams/team_with_dalianligong.jpg" style="width:100%">
-<span></span>
 
 
 - 2024.11  赵羲及其团队成员与Alfred Stein教授聚餐
 
-<img src="https://xizhao-sysu.github.io//images/teams/team_with_alfred_stein.jpg" style="width:100%">
+<img src="/images/teams/team_with_alfred_stein.jpg" style="width:100%">
 
 
-荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。在紧凑的学术研讨后，特别准备了潮汕牛肉火锅作为文化体验。
+荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。在紧凑的学术研讨后，特别准备了潮汕牛肉火锅作为文化体验。 -->
 
 
 ---

@@ -206,7 +206,6 @@ span{
 .board_item{
   width: 100%;
   padding: 10px;
-  background-color: red;
   box-sizing: border-box;
 }
 .board_up{
@@ -214,20 +213,17 @@ span{
   height: 30px;
   line-height: 30px;
   float: left;
-  background-color: blue;
 }
 .board_middle{
   width: 100%;
   height: 200px;
   float: left;
-  background-color: green;
 }
 .board_down{
   width: 100%;
   height: 60px;
   line-height: 30px;
   float: left;
-  background-color: purple;
 }
 
 .description_img{
