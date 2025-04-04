@@ -198,7 +198,8 @@ span{
   display: grid;
   grid-template-columns: 1fr 1fr; /* 两列布局 */
   grid-template-rows: 300px 300px;
-  gap:10px /* 两行布局 */
+  gap:10px; /* 两行布局 */
+  width:100%;
 }
 .board p{
   margin: 0 0;
