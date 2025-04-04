@@ -203,12 +203,9 @@ span{
 .board_item{
   width: 50%;
   height: 300px;
-  display: flex;
-  flex-wrap: wrap; /* 允许换行 */
   padding: 10px;
   background-color: red;
-  float: left;
-  position: relative;
+  box-sizing: border-box;
 }
 .board_up{
   width: 100%;
