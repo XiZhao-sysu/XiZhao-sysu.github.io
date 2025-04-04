@@ -196,13 +196,14 @@ span{
 .board{
   width: 100%;
   display: flex;
+  flex-wrap: wrap;
 }
 .board_item{
   width: 50%;
   height: 300px;
   display: flex;
   flex-wrap: wrap; /* 允许换行 */
-  padding: 1em 1em;
+  padding: 10px;
   background-color: red;
   float: left;
   position: relative;
@@ -211,6 +212,7 @@ span{
   width: 100%;
   height: 30px;
   line-height: 30px;
+  
   float: left;
   background-color: blue;
 }
