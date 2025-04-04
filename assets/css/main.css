@@ -195,8 +195,10 @@ span{
 }
 .board{
   width: 100%;
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr; /* 两列布局 */
+  grid-template-rows: 300px 300px;
+  gap:10px /* 两行布局 */
 }
 .board_item{
   width: 50%;
@@ -212,7 +214,7 @@ span{
   width: 100%;
   height: 30px;
   line-height: 30px;
-  
+
   float: left;
   background-color: blue;
 }
