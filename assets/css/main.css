@@ -200,6 +200,9 @@ span{
   grid-template-rows: 300px 300px;
   gap:10px /* 两行布局 */
 }
+.board p{
+  margin: 0 0;
+}
 .board_item{
   width: 100%;
   padding: 10px;
@@ -210,7 +213,6 @@ span{
   width: 100%;
   height: 30px;
   line-height: 30px;
-
   float: left;
   background-color: blue;
 }
