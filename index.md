@@ -21,7 +21,7 @@ layout: page
       </div>   
     </div>
     <div class="board_down">
-    <p>荷兰ITC参加博士导师[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)荣休学术研讨会</p>
+    <p>荷兰ITC参加博士导师<a href="https://research.utwente.nl/en/persons/alfred-stein">Alfred Stein</a>荣休学术研讨会</p>
     </div>
   </div>
   <div class="board_item">
@@ -54,7 +54,7 @@ layout: page
       </div>
     </div>
     <div class="board_down">
-      荣幸接待荷兰特文特大学ITC学院的[**Alfred Stein**](https://research.utwente.nl/en/persons/alfred-stein)教授来访指导。
+      荣幸接待荷兰特文特大学ITC学院的Alfred Stein教授来访指导。
     </div>
   </div>
   <div class="board_item">

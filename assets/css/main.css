@@ -200,7 +200,7 @@ span{
   grid-template-rows: 1fr 1fr;
   gap:10px; 
   width:100%;
-  height:50vh;
+  height:720px;
 }
 .board p{
   margin: 0 0;
@@ -210,6 +210,7 @@ span{
   box-sizing: border-box;
   display: flex;
   flex-direction: column;
+  height:350px;
 }
 .board_up .board_down{
   line-height: 1em;
