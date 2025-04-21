@@ -8,7 +8,7 @@ title: Publications
 
 ## 代表性论著
 
-- Gong, J., Song, L., **Zhao, X**., Rinke, A., Wang, X., Wu, Y., … & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
+- Gong, J., Song, L., **Zhao, Xi**., Rinke, A., Wang, X., Wu, Y., … & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
 - **Xi Zhao**, Jiaxing Gong, Meng Qu, Lijuan Song, Xiao Cheng. Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 2025. 316, 114517
 
