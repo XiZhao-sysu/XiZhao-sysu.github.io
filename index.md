@@ -36,10 +36,13 @@ layout: page
         <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery2"></a>
         <a href="/images/ZX/jiangzuo3.jpg" class="mfp-gallery2"></a>
         <a href="/images/ZX/jiangzuo4.jpg" class="mfp-gallery2"></a>
+        <a href="/images/ZX/jiangzuo5.jpg" class="mfp-gallery2"></a>
+        <a href="/images/ZX/jiangzuo6.jpg" class="mfp-gallery2"></a>
+        <a href="/images/ZX/jiangzuo7.jpg" class="mfp-gallery2"></a>
       </div> 
     </div>
     <div class="board_down">
-    <p>北京师范大学珠海校区，极地科普讲座  “走近极地科考”</p>
+    <p>在珠海市第一中学、北京师范大学珠海附中，举办极地科普讲座</p>
     </div>
   </div>
   <div class="board_item">
