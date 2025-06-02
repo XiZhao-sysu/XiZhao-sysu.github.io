@@ -8,41 +8,38 @@ layout: page
 <div class="board">
   <div class="board_item">
     <div class="board_up">
-      <p>2025.3.25~2025.3.30</p>
+      <p>2025.5.26~2025.5.30</p>
     </div>
     <div class="board_middle">
       <div class="gallery1">
-        <a href="/images/ZX/retire1.jpg" class="mfp-gallery1">
-          <img src="/images/ZX/retire1.jpg" alt="Image 1">
+        <a href="/images/teams/slj_meeting/三亚-极地号/极地科考2.jpg" class="mfp-gallery1">
+          <img src="/images/teams/slj_meeting/三亚-极地号/极地科考2.jpg" alt="Image 1">
         </a>
-        <a href="/images/ZX/retire2.jpg" class="mfp-gallery1"></a>
-        <a href="/images/ZX/retire3.jpg" class="mfp-gallery1"></a>
-        <a href="/images/ZX/retire4.jpg" class="mfp-gallery1"></a>
-      </div>   
+        <a href="/images/teams/slj_meeting/三亚-极地号/团队合照1.jpg" class="mfp-gallery1"></a>
+        <a href="/images/teams/slj_meeting/三亚-极地号/测试3.jpg" class="mfp-gallery1"></a>
+        <a href="/images/teams/slj_meeting/三亚-极地号/测试4.jpg" class="mfp-gallery1"></a>
+      </div> 
     </div>
     <div class="board_down">
-    <p>荷兰ITC参加博士导师<a href="https://research.utwente.nl/en/persons/alfred-stein">Alfred Stein</a>荣休学术研讨会</p>
+    <p>中山大学赵羲老师与博士研究生宋利娟共同参与“中山大学极地号”三亚航次科考任务</p>
     </div>
   </div>
   <div class="board_item">
     <div class="board_up">
-      <p>2025.3.18</p>
+      <p>2025.4.27~2025.5.2</p>
     </div>
     <div class="board_middle">
       <div class="gallery2">
-        <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery2">
-          <img src="/images/ZX/jiangzuo1.jpg" alt="Image 1">
+        <a href="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" class="mfp-gallery2">
+          <img src="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" alt="Image 1">
         </a>
-        <a href="/images/ZX/jiangzuo2.jpg" class="mfp-gallery2"></a>
-        <a href="/images/ZX/jiangzuo3.jpg" class="mfp-gallery2"></a>
-        <a href="/images/ZX/jiangzuo4.jpg" class="mfp-gallery2"></a>
-        <a href="/images/ZX/jiangzuo5.jpg" class="mfp-gallery2"></a>
-        <a href="/images/ZX/jiangzuo6.jpg" class="mfp-gallery2"></a>
-        <a href="/images/ZX/jiangzuo7.jpg" class="mfp-gallery2"></a>
+        <a href="/images/teams/slj_meeting/EGU 2025/团队合照1.JPG" class="mfp-gallery2"></a>
+        <a href="/images/teams/slj_meeting/EGU 2025/会场记录4.jpg" class="mfp-gallery2"></a>
+        <a href="/images/teams/slj_meeting/EGU 2025/学术报告3.JPG" class="mfp-gallery2"></a>
       </div> 
     </div>
     <div class="board_down">
-    <p>在珠海市第一中学、北京师范大学珠海附中，举办极地科普讲座</p>
+    <p>博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会</p>
     </div>
   </div>
   <div class="board_item">
@@ -63,17 +60,20 @@ layout: page
   </div>
   <div class="board_item">
     <div class="board_up">
-      <p> 2024.11</p>
+      <p>2025.3.25~2025.3.30</p>
     </div>
     <div class="board_middle">
       <div class="gallery4">
-        <a href="/images/teams/team_with_dalianligong.jpg" class="mfp-gallery4">
-          <img src="/images/teams/team_with_dalianligong.jpg" alt="Image 1">
+        <a href="/images/ZX/retire1.jpg" class="mfp-gallery4">
+          <img src="/images/ZX/retire1.jpg" alt="Image 1">
         </a>
-      </div>
+        <a href="/images/ZX/retire2.jpg" class="mfp-gallery4"></a>
+        <a href="/images/ZX/retire3.jpg" class="mfp-gallery4"></a>
+        <a href="/images/ZX/retire4.jpg" class="mfp-gallery4"></a>
+      </div>   
     </div>
     <div class="board_down">
-      团队成员与大连理工大学团队合影
+    <p>荷兰ITC参加博士导师<a href="https://research.utwente.nl/en/persons/alfred-stein">Alfred Stein</a>荣休学术研讨会</p>
     </div>
   </div>
 </div>
