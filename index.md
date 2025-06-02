@@ -58,7 +58,7 @@ layout: page
       </div>
     </div>
     <div class="board_down">
-      龚家兴同学在2025年中国海洋大学“极地海洋与全球变化”研究生学术论坛中进行口头汇报，其中报告《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！
+      龚家兴同学在2025年“极地海洋与全球变化”研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！
     </div>
   </div>
   <div class="board_item">
@@ -127,7 +127,7 @@ layout: page
 
 链接：[https://mp.weixin.qq.com/s/2wNm7RQJct54ixKiEShiLA](https://mp.weixin.qq.com/s/2wNm7RQJct54ixKiEShiLA)
 
-相关作者：[龚家兴](https://XiZhao-sysu.github.io/blogs/gjx) [吴怡凡](https://xizhao-sysu.github.io/blogs/wyf)
+相关作者：[龚家兴](https://XiZhao-sysu.github.io/blogs/gjx) [宋利娟](https://xizhao-sysu.github.io/blogs/slj)  [吴怡凡](https://xizhao-sysu.github.io/blogs/wyf)
 
 
 - Zhao, X., Gong, J., Qu, M., Song, L., & Cheng, X. (2025). Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 316, 114517. 10.1016/j.rse.2024.114517

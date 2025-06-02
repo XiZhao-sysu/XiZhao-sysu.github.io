@@ -10,6 +10,8 @@ title: Publications
 
 - Gong, J., Song, L., **Zhao, Xi**., Rinke, A., Wang, X., Wu, Y., … & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
+- Song, Lijuan, **Zhao, Xi**, Wu, Yifan, Gong, Jiaxing, Li, Bo. Assessing Arctic marginal ice zone dynamics from 1979 to 2023: insights into long-term variability and morphological changes. Environmental Research Letters, 2025, 20(3): 034032.
+
 - **Xi Zhao**, Jiaxing Gong, Meng Qu, Lijuan Song, Xiao Cheng. Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 2025. 316, 114517
 
 - Bo Li, Jiaxing Gong, **Xi Zhao**, Xiao Cheng. Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm. Ocean Engineering. 2024, 311,118843

@@ -9,7 +9,7 @@ title: Team
 
 <div class="image-text-container">
   <div class="image-text-item">
-    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/songlijuan1.png" alt="宋利娟" class="img_left">
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/songlijuan2.png" alt="宋利娟" class="img_left">
     <div class="box_right">
         <div class="up_div">
           <div class="up_left_box">
