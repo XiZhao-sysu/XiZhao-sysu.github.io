@@ -23,6 +23,8 @@ title: gjx
   </tr>
 </table>
 
+邮箱：gongjx7@mail2.sysu.edu.cn
+
 ### 研究内容
 - 发展基于被动微波遥感的北极冰间水道探测方法；
 - 探索海冰-极端事件双向反馈机制，为北极航道安全与海冰、气候模式预测提供新视角。
@@ -46,7 +48,28 @@ title: gjx
 链接：[https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw](https://mp.weixin.qq.com/s/JRxzQayFPoS0TwKUscZ1Fw)
 
 
+- Zhao X, Zhang Y, Gong J, et al. A Stacking Approach for Arctic Sea Ice Lead Classification (SALC) via Sentinel-1 SAR Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63: 1-16（IF = 7.5）
+
+- Li B, Gong J, Zhao X, et al. Research on ship navigation strategy in dynamic sea ice environments based on flexibility velocity obstacles algorithm[J]. Ocean Engineering, 2024, 311: 118843.（IF = 4.6）
+
+- Song L, Zhao X, Wu Y, Gong J, et al. Assessing arctic marginal ice zone dynamics from 1979 to 2023: insights into long-term variability and morphological changes[J]. Environmental Research Letters, 2025, 20(3): 034032.（IF = 5.9）
+
+- Song L, Wu Y, Gong J, et al. Improvement of Ice Surface Temperature Retrieval by Integrating Landsat 8/TIRS and Operation IceBridge Observations[J]. Remote Sensing, 2023, 15(18): 4577.（IF= 4.2）
+
+
 其他论文见：[https://www.researchgate.net/profile/Jiaxing-Gong](https://www.researchgate.net/profile/Jiaxing-Gong)
+
+### 参与学术会议：
+- 2023.12 中国极地学术年会，墙报，浙江舟山
+- 2024.05 中国冰冻圈遥感与大数据学术研讨会，口头汇报，湖南长沙
+- 2024.12 大湾区测绘遥感大会，口头汇报，广东深圳
+- 2025.05 中国海洋大学“极地海洋与全球变化”研究生学术论坛，口头汇报，山东青岛，获优秀论文一等奖。
+
 
 ### 兴趣爱好
 旅游，爬山等。
+
+### 获得奖项：
+- 2025年度“飞马极地与海洋”奖学金
+- 中山大学优秀毕业生
+
