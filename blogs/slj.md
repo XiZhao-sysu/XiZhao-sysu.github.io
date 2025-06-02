@@ -4,7 +4,7 @@ permalink: /blogs/slj/index.html
 title: slj
 ---
 
-## 宋丽娟
+## 宋利娟
 
 <img src="/blogs/team_members.assets/songlijuan2.png" style="width:50%">
 
