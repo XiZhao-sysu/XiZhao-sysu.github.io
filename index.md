@@ -47,7 +47,7 @@ layout: page
   </div>
   <div class="board_item">
     <div class="board_up">
-      <p> 2024.11</p>
+      <p> 2025.5.26</p>
     </div>
     <div class="board_middle">
       <div class="gallery3">
@@ -58,7 +58,7 @@ layout: page
       </div>
     </div>
     <div class="board_down">
-      荣幸接待荷兰特文特大学ITC学院的Alfred Stein教授来访指导。
+      龚家兴同学在2025年中国海洋大学“极地海洋与全球变化”研究生学术论坛中进行口头汇报，其中报告《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！
     </div>
   </div>
   <div class="board_item">
