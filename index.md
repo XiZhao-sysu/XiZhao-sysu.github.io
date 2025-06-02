@@ -51,9 +51,10 @@ layout: page
     </div>
     <div class="board_middle">
       <div class="gallery3">
-        <a href="/images/teams/team_with_alfred_stein.jpg" class="mfp-gallery3">
-          <img src="/images/teams/team_with_alfred_stein.jpg" alt="Image 1">
+        <a href="/images/teams/gjx_meeting/gjx_huiyi1.png" class="mfp-gallery3">
+          <img src="/images/teams/gjx_meeting/gjx_huiyi1.png" alt="Image 1">
         </a>
+        <a href="/images/teams/gjx_meeting/gjx_huiyi2.png" class="mfp-gallery3"></a>
       </div>
     </div>
     <div class="board_down">
