@@ -60,20 +60,21 @@ layout: page
   </div>
   <div class="board_item">
     <div class="board_up">
-      <p>2025.3.25~2025.3.30</p>
+      <p>2025.10.28~2025.10.31</p>
     </div>
     <div class="board_middle">
       <div class="gallery4">
-        <a href="/images/ZX/retire1.jpg" class="mfp-gallery4">
-          <img src="/images/ZX/retire1.jpg" alt="Image 1">
+        <a href="/images/teams/Japan_meeting/hezhao.jpg" class="mfp-gallery4">
+          <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="Image 1">
         </a>
-        <a href="/images/ZX/retire2.jpg" class="mfp-gallery4"></a>
-        <a href="/images/ZX/retire3.jpg" class="mfp-gallery4"></a>
-        <a href="/images/ZX/retire4.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeing1.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeing2.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeing3.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeing4.jpg" class="mfp-gallery4"></a>
       </div>   
     </div>
     <div class="board_down">
-    <p>荷兰ITC参加博士导师<a href="https://research.utwente.nl/en/persons/alfred-stein">Alfred Stein</a>荣休学术研讨会</p>
+    <p>第八届国际北极研究研讨会由日本国家极地研究所牵头主办，本次会议聚焦极地海冰研究、极地科考国际合作等核心议题，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。</p>
     </div>
   </div>
 </div>
