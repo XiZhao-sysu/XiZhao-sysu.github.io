@@ -67,10 +67,10 @@ layout: page
         <a href="/images/teams/Japan_meeting/hezhao.jpg" class="mfp-gallery4">
           <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="Image 1">
         </a>
-        <a href="/images/teams/Japan_meeting/meeing1.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeing2.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeing3.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeing4.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting1.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting2.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting3.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting4.jpg" class="mfp-gallery4"></a>
       </div>   
     </div>
     <div class="board_down">
@@ -118,7 +118,15 @@ layout: page
 
 ---
 ### 文章公众号
+- Yi-Fan Wu, Xi Zhao, Yi Zhang,Alfred Stein,Zhao-Ru Zhang,Li-Juan Song,Bo Li,Xue-Jiao Hou, Xiao Cheng (2025).Spatiotemporal Dynamics of Polynyas and their Relationships with Phytoplankton Blooms in the Ross Sea, Antarctica 1
 
+<img src = "/blogs/wyf_paper/pic.png" style = "width:100%">
+
+很多人以为：冬季南极的海洋会被海冰严严实实地覆盖——但事实并非如此。在南极沿岸，海冰常常会被强劲的下降风吹开，形成一片片开阔水域或薄冰区。它们有一个很“酷”的名字——冰间湖（polynya）。冰间湖一方面让海洋和大气连通，强化热量交换、促进海冰生成；另一方面，阳光更早进入海洋表层，为浮游植物提供最早的生长机会。
+那么问题来了：冰间湖面积变大，浮游植物会跟着变多吗？如果冰间湖提前向外扩张，浮游植物大量繁殖开始时间会不会也提前？
+
+链接：[https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1](https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1)
+相关作者：[吴怡凡](https://xizhao-sysu.github.io/blogs/wyf) [张翼](https://XiZhao-sysu.github.io/blogs/zy) [宋利娟](https://xizhao-sysu.github.io/blogs/slj) [李博](https://xizhao-sysu.github.io/blogs/lb)
 
 - Gong, J., Song, L., Zhao, X., Rinke, A., Wang, X., Wu, Y., ... & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
