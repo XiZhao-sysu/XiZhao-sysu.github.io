@@ -7,6 +7,7 @@ title: Publications
 <!-- > (†: equal contribution, ~: corresponding author) -->
 
 ## 代表性论著
+- Li, B., Zhao, X., Cheng, X., Chen, Z., Han, Y., Stein, A., … Zhang, Y. (2026). Real-time monitoring of sea ice floes using shipborne marine radar during the FACE2024 arctic expedition. GIScience &amp; Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2640271
 
 - Gong, J., Song, L., **Zhao, Xi**., Rinke, A., Wang, X., Wu, Y., … & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
