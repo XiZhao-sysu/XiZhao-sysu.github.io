@@ -1,0 +1,224 @@
+/* ===================================
+   自定义样式 - 团队公告板和团队成员页面优化
+   =================================== */
+
+/* =============
+   团队公告板样式优化
+   ============= */
+
+.board {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  /* 移除固定高度，改为自动高度 */
+  min-height: auto;
+}
+
+.board_item {
+  display: flex;
+  flex-direction: column;
+  background: #f9f9f9;
+  padding: 15px;
+  border-radius: 8px;
+  /* 移除固定高度 */
+  min-height: auto;
+  height: auto;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  transition: box-shadow 0.3s ease;
+}
+
+.board_item:hover {
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.board_up {
+  font-size: 14px;
+  color: #666;
+  margin-bottom: 10px;
+  text-align: left;
+}
+
+.board_middle {
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* 移除固定高度，允许内容自适应 */
+  min-height: 200px;
+  margin: 10px 0;
+  padding: 10px;
+}
+
+.board_middle img {
+  max-width: 100%;
+  max-height: 300px;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.board_middle img:hover {
+  transform: scale(1.02);
+}
+
+.board_down {
+  /* 文字区域自适应 */
+  margin-top: auto;
+  padding: 10px 0;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* 画廊弹窗样式修复 */
+.mfp-container {
+  z-index: 100000 !important;
+}
+
+.mfp-bg {
+  z-index: 99999 !important;
+}
+
+/* =============
+   团队成员页面样式优化
+   ============= */
+
+.image-text-container {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+
+.image-text-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  /* 根据奇偶项调整方向 */
+}
+
+.img_left, .img_right {
+  /* 保持图片原始比例 */
+  width: 200px;
+  height: auto;
+  object-fit: contain;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  display: block;
+}
+
+.box_left, .box_right {
+  flex: 1;
+  min-width: 0; /* 防止flex item溢出 */
+}
+
+/* 奇数项：图片在左，文本在右 */
+.image-text-item:nth-child(odd) {
+  flex-direction: row;
+}
+
+/* 偶数项：文本在左，图片在右 */
+.image-text-item:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.image-text-item img {
+  display: block;
+  margin: 0 auto;
+}
+
+.up_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.up_left_box {
+  font-size: 20px;
+  font-weight: bold;
+  color: #333;
+}
+
+.up_right_box {
+  font-size: 14px;
+  color: #666;
+}
+
+.middle_div {
+  margin: 10px 0;
+}
+
+.down_div {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.down_left_box {
+  flex: 1;
+}
+
+.down_right_box {
+  margin-left: 20px;
+}
+
+.down_right_box a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.down_right_box a:hover {
+  text-decoration: underline;
+}
+
+/* =============
+   响应式设计
+   ============= */
+
+@media (max-width: 992px) {
+  .board {
+    grid-template-columns: 1fr;
+  }
+
+  .board_middle img {
+    max-height: 250px;
+  }
+
+  .img_left, .img_right {
+    width: 180px;
+  }
+}
+
+@media (max-width: 768px) {
+  .board_middle img {
+    max-height: 200px;
+  }
+
+  .img_left, .img_right {
+    width: 150px;
+  }
+}
+
+@media (max-width: 480px) {
+  .image-text-item {
+    flex-direction: column !important;
+  }
+
+  .img_left, .img_right {
+    width: 100%;
+    max-width: 300px;
+    margin: 0 auto;
+  }
+
+  .down_div {
+    flex-direction: column;
+  }
+
+  .down_right_box {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+}

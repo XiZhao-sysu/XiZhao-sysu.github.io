@@ -1896,8 +1896,112 @@ $(document).ready(function() {
       tError: '<a href="%url%">Image #%curr%</a> could not be loaded.',
     },
     removalDelay: 300, // Delay in milliseconds before popup is removed
-    // Class that is added to body when popup is open. 
+    // Class that is added to body when popup is open.
     // make it unique to apply your CSS animations just to this exact popup
     mainClass: 'mfp-fade'
   });
+});
+
+// ==========================================
+// 团队公告板画廊功能优化
+// ==========================================
+
+$(document).ready(function() {
+  // 等待所有资源加载完成后初始化画廊
+  $(window).on('load', function() {
+    // 初始化四个独立的画廊
+    $('.gallery1').magnificPopup({
+      delegate: 'a.mfp-gallery1',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+
+    $('.gallery2').magnificPopup({
+      delegate: 'a.mfp-gallery2',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+
+    $('.gallery3').magnificPopup({
+      delegate: 'a.mfp-gallery3',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+
+    $('.gallery4').magnificPopup({
+      delegate: 'a.mfp-gallery4',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+  });
+});
+
+// ==========================================
+// Fallback机制：如果画廊初始化失败，提供基本的图片查看功能
+// ==========================================
+
+$(document).on('click', '.board_middle img', function(e) {
+  // 检查Magnific Popup是否已经初始化
+  if (typeof $.fn.magnificPopup === 'undefined') {
+    e.preventDefault();
+    var src = $(this).attr('src');
+    // 在新标签页打开图片
+    window.open(src, '_blank', 'noopener,noreferrer');
+    return false;
+  }
+});
+
+// 检查画廊是否正确初始化
+$(window).on('load', function() {
+  setTimeout(function() {
+    // 如果点击画廊图片后没有反应，添加fallback
+    $('.board_middle a').on('click', function(e) {
+      var hasPopup = $(this).parents('.gallery1, .gallery2, .gallery3, .gallery4').hasClass('mfp-gallery');
+      if (!hasPopup && $(this).attr('href')) {
+        e.preventDefault();
+        window.open($(this).attr('href'), '_blank', 'noopener,noreferrer');
+        return false;
+      }
+    });
+  }, 1000); // 延迟1秒检查
 });
