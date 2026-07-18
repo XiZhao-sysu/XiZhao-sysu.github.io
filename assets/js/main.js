@@ -1907,65 +1907,33 @@ $(document).ready(function() {
 // ==========================================
 
 $(document).ready(function() {
-  // 检查是否有公告板配置
-  if (typeof announcements !== 'undefined' && announcements) {
-    var board = $('#announcement-board');
-    board.empty();
+  // 等待所有资源加载完成后初始化画廊
+  $(window).on('load', function() {
+    // 自动初始化所有 galleryN 画廊
+    var i = 1;
+    while (true) {
+      var galleryClass = '.gallery' + i;
+      var linkClass = 'a.mfp-gallery' + i;
+      if ($(galleryClass).length === 0) break;
 
-    // 遍历公告配置，生成HTML
-    announcements.forEach(function(item, index) {
-      var galleryClass = 'gallery' + (index + 1);
-      var itemHtml = '<div class="board_item">' +
-        '<div class="board_up"><p>' + item.date + '</p></div>' +
-        '<div class="board_middle"><div class="' + galleryClass + '">';
-
-      // 生成图片列表
-      item.images.forEach(function(img, imgIndex) {
-        var imgPath = item.folder + img;
-        var linkClass = 'mfp-' + galleryClass;
-        if (imgIndex === 0) {
-          // 第一张图片显示缩略图
-          itemHtml += '<a href="' + imgPath + '" class="' + linkClass + '">' +
-            '<img src="' + imgPath + '" alt="Image ' + (imgIndex + 1) + '">' +
-            '</a>';
-        } else {
-          // 其他图片只有链接（用于画廊）
-          itemHtml += '<a href="' + imgPath + '" class="' + linkClass + '"></a>';
+      $(galleryClass).magnificPopup({
+        delegate: linkClass,
+        type: 'image',
+        gallery: {
+          enabled: true
+        },
+        navigateByImgClick: true,
+        preload: [0, 1],
+        mainClass: 'mfp-fade',
+        removalDelay: 300,
+        tLoading: '加载中 #%curr%...',
+        image: {
+          tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
         }
       });
-
-      itemHtml += '</div></div>' +
-        '<div class="board_down"><p>' + item.description + '</p></div>' +
-        '</div>';
-
-      board.append(itemHtml);
-    });
-
-    // 等待所有资源加载完成后初始化画廊
-    $(window).on('load', function() {
-      // 初始化所有画廊
-      announcements.forEach(function(_, index) {
-        var galleryClass = '.gallery' + (index + 1);
-        var linkClass = 'a.mfp-gallery' + (index + 1);
-
-        $(galleryClass).magnificPopup({
-          delegate: linkClass,
-          type: 'image',
-          gallery: {
-            enabled: true
-          },
-          navigateByImgClick: true,
-          preload: [0, 1],
-          mainClass: 'mfp-fade',
-          removalDelay: 300,
-          tLoading: '加载中 #%curr%...',
-          image: {
-            tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
-          }
-        });
-      });
-    });
-  }
+      i++;
+    }
+  });
 });
 
 // ==========================================

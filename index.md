@@ -6,7 +6,7 @@ announcements:
     images:
       - “xianjingeren1.jpg”
       - “xianjingeren2.jpg”
-    description: 自然资源部获得“中国极地考察先进个人”表彰
+    description: 自然资源部获得”中国极地考察先进个人”表彰
 
   - date: “2025.4.27~2025.5.2”
     folder: “/images/teams/slj_meeting/EGU 2025/”
@@ -38,11 +38,32 @@ announcements:
 
 ## 团队公告板
 
-<script>
-var announcements = {{ page.announcements | jsonify }};
-</script>
-
-<div class=”board” id=”announcement-board”></div>
+<div class=”board”>
+{% for item in page.announcements %}
+  <div class=”board_item”>
+    <div class=”board_up”>
+      <p>{{ item.date }}</p>
+    </div>
+    <div class=”board_middle”>
+      <div class=”gallery{{ forloop.index }}”>
+        {% for img in item.images %}
+          {% assign img_path = item.folder | append: img %}
+          {% if forloop.first %}
+            <a href=”{{ img_path }}” class=”mfp-gallery{{ forloop.parentloop.index }}”>
+              <img src=”{{ img_path }}” alt=”Image {{ forloop.index }}”>
+            </a>
+          {% else %}
+            <a href=”{{ img_path }}” class=”mfp-gallery{{ forloop.parentloop.index }}”></a>
+          {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+    <div class=”board_down”>
+      <p>{{ item.description }}</p>
+    </div>
+  </div>
+{% endfor %}
+</div>
 
 
 <!-- - 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
