@@ -1,83 +1,48 @@
 ---
 layout: page
+announcements:
+  - date: “2026.6.17”
+    folder: “/images/ZX/”
+    images:
+      - “xianjingeren1.jpg”
+      - “xianjingeren2.jpg”
+    description: 自然资源部获得“中国极地考察先进个人”表彰
+
+  - date: “2025.4.27~2025.5.2”
+    folder: “/images/teams/slj_meeting/EGU 2025/”
+    images:
+      - “学术报告2.jpg”
+      - “团队合照1.JPG”
+      - “会场记录4.jpg”
+      - “学术报告3.JPG”
+    description: “博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会”
+
+  - date: “2025.5.26”
+    folder: “/images/teams/gjx_meeting/”
+    images:
+      - “gjx_huiyi1.png”
+      - “gjx_huiyi2.png”
+    description: “龚家兴同学在2025年”极地海洋与全球变化”研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！”
+
+  - date: “2025.10.28~2025.10.31”
+    folder: “/images/teams/Japan_meeting/”
+    images:
+      - “hezhao.jpg”
+      - “meeting1.jpg”
+      - “meeting2.jpg”
+      - “meeting3.jpg”
+      - “meeting4.jpg”
+    description: “第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。”
 ---
 
 
 ## 团队公告板
 
-<div class="board">
-  <div class="board_item">
-    <div class="board_up">
-      <p>2025.5.26~2025.5.30</p>
-    </div>
-    <div class="board_middle">
-      <div class="gallery1">
-        <a href="/images/teams/slj_meeting/三亚-极地号/极地科考2.jpg" class="mfp-gallery1">
-          <img src="/images/teams/slj_meeting/三亚-极地号/极地科考2.jpg" alt="Image 1">
-        </a>
-        <a href="/images/teams/slj_meeting/三亚-极地号/团队合照1.jpg" class="mfp-gallery1"></a>
-        <a href="/images/teams/slj_meeting/三亚-极地号/测试3.jpg" class="mfp-gallery1"></a>
-        <a href="/images/teams/slj_meeting/三亚-极地号/测试4.jpg" class="mfp-gallery1"></a>
-      </div> 
-    </div>
-    <div class="board_down">
-    <p>中山大学赵羲老师与博士研究生宋利娟共同参与“中山大学极地号”三亚航次科考任务</p>
-    </div>
-  </div>
-  <div class="board_item">
-    <div class="board_up">
-      <p>2025.4.27~2025.5.2</p>
-    </div>
-    <div class="board_middle">
-      <div class="gallery2">
-        <a href="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" class="mfp-gallery2">
-          <img src="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" alt="Image 1">
-        </a>
-        <a href="/images/teams/slj_meeting/EGU 2025/团队合照1.JPG" class="mfp-gallery2"></a>
-        <a href="/images/teams/slj_meeting/EGU 2025/会场记录4.jpg" class="mfp-gallery2"></a>
-        <a href="/images/teams/slj_meeting/EGU 2025/学术报告3.JPG" class="mfp-gallery2"></a>
-      </div> 
-    </div>
-    <div class="board_down">
-    <p>博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会</p>
-    </div>
-  </div>
-  <div class="board_item">
-    <div class="board_up">
-      <p> 2025.5.26</p>
-    </div>
-    <div class="board_middle">
-      <div class="gallery3">
-        <a href="/images/teams/gjx_meeting/gjx_huiyi1.png" class="mfp-gallery3">
-          <img src="/images/teams/gjx_meeting/gjx_huiyi1.png" alt="Image 1">
-        </a>
-        <a href="/images/teams/gjx_meeting/gjx_huiyi2.png" class="mfp-gallery3"></a>
-      </div>
-    </div>
-    <div class="board_down">
-      龚家兴同学在2025年“极地海洋与全球变化”研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！
-    </div>
-  </div>
-  <div class="board_item">
-    <div class="board_up">
-      <p>2025.10.28~2025.10.31</p>
-    </div>
-    <div class="board_middle">
-      <div class="gallery4">
-        <a href="/images/teams/Japan_meeting/hezhao.jpg" class="mfp-gallery4">
-          <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="Image 1">
-        </a>
-        <a href="/images/teams/Japan_meeting/meeting1.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeting2.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeting3.jpg" class="mfp-gallery4"></a>
-        <a href="/images/teams/Japan_meeting/meeting4.jpg" class="mfp-gallery4"></a>
-      </div>   
-    </div>
-    <div class="board_down">
-    <p>第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。</p>
-    </div>
-  </div>
-</div>
+<script>
+var announcements = {{ page.announcements | jsonify }};
+</script>
+
+<div class=”board” id=”announcement-board”></div>
 
 
 <!-- - 2025.3.25~2025.3.30 荷兰ITC参加博士导师Alfred Stein荣休学术研讨会
