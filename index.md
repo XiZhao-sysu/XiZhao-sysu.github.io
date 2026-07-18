@@ -1,68 +1,100 @@
 ---
 layout: page
-announcements:
-  - date: “2026.6.17”
-    folder: “/images/ZX/”
-    images:
-      - “xianjingeren1.jpg”
-      - “xianjingeren2.jpg”
-    description: 自然资源部获得”中国极地考察先进个人”表彰
-
-  - date: “2025.4.27~2025.5.2”
-    folder: “/images/teams/slj_meeting/EGU 2025/”
-    images:
-      - “学术报告2.jpg”
-      - “团队合照1.JPG”
-      - “会场记录4.jpg”
-      - “学术报告3.JPG”
-    description: “博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会”
-
-  - date: “2025.5.26”
-    folder: “/images/teams/gjx_meeting/”
-    images:
-      - “gjx_huiyi1.png”
-      - “gjx_huiyi2.png”
-    description: “龚家兴同学在2025年”极地海洋与全球变化”研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！”
-
-  - date: “2025.10.28~2025.10.31”
-    folder: “/images/teams/Japan_meeting/”
-    images:
-      - “hezhao.jpg”
-      - “meeting1.jpg”
-      - “meeting2.jpg”
-      - “meeting3.jpg”
-      - “meeting4.jpg”
-    description: “第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。”
 ---
 
 
 ## 团队公告板
 
-<div class=”board”>
-{% for item in page.announcements %}
-  <div class=”board_item”>
-    <div class=”board_up”>
-      <p>{{ item.date }}</p>
+<!--
+  ===================== 使用说明 =====================
+  每条公告只需修改以下内容：
+  1. 日期：<p>日期内容</p>
+  2. 图片：把 folder + 文件名 组合成完整路径（第一张带 <img>，其余只有 <a>）
+  3. 描述：<p>描述文字</p>
+  4. gallery 编号：gallery1, gallery2, gallery3, gallery4 ...
+  ===================== 使用说明 =====================
+-->
+
+<div class="board">
+
+  <!-- 公告1 -->
+  <div class="board_item">
+    <div class="board_up">
+      <p>2026.6.17</p>
     </div>
-    <div class=”board_middle”>
-      <div class=”gallery{{ forloop.index }}”>
-        {% for img in item.images %}
-          {% assign img_path = item.folder | append: img %}
-          {% if forloop.first %}
-            <a href=”{{ img_path }}” class=”mfp-gallery{{ forloop.parentloop.index }}”>
-              <img src=”{{ img_path }}” alt=”Image {{ forloop.index }}”>
-            </a>
-          {% else %}
-            <a href=”{{ img_path }}” class=”mfp-gallery{{ forloop.parentloop.index }}”></a>
-          {% endif %}
-        {% endfor %}
+    <div class="board_middle">
+      <div class="gallery1">
+        <!-- 改路径：folder + 文件名，如 /images/ZX/ + xianjingeren1.jpg -->
+        <a href="/images/ZX/xianjingeren1.jpg" class="mfp-gallery1">
+          <img src="/images/ZX/xianjingeren1.jpg" alt="">
+        </a>
+        <a href="/images/ZX/xianjingeren2.jpg" class="mfp-gallery1"></a>
       </div>
     </div>
-    <div class=”board_down”>
-      <p>{{ item.description }}</p>
+    <div class="board_down">
+      <p>自然资源部获得"中国极地考察先进个人"表彰</p>
     </div>
   </div>
-{% endfor %}
+
+  <!-- 公告2 -->
+  <div class="board_item">
+    <div class="board_up">
+      <p>2025.4.27~2025.5.2</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery2">
+        <a href="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" class="mfp-gallery2">
+          <img src="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" alt="">
+        </a>
+        <a href="/images/teams/slj_meeting/EGU 2025/团队合照1.JPG" class="mfp-gallery2"></a>
+        <a href="/images/teams/slj_meeting/EGU 2025/会场记录4.jpg" class="mfp-gallery2"></a>
+        <a href="/images/teams/slj_meeting/EGU 2025/学术报告3.JPG" class="mfp-gallery2"></a>
+      </div>
+    </div>
+    <div class="board_down">
+      <p>博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会</p>
+    </div>
+  </div>
+
+  <!-- 公告3 -->
+  <div class="board_item">
+    <div class="board_up">
+      <p>2025.5.26</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery3">
+        <a href="/images/teams/gjx_meeting/gjx_huiyi1.png" class="mfp-gallery3">
+          <img src="/images/teams/gjx_meeting/gjx_huiyi1.png" alt="">
+        </a>
+        <a href="/images/teams/gjx_meeting/gjx_huiyi2.png" class="mfp-gallery3"></a>
+      </div>
+    </div>
+    <div class="board_down">
+      <p>龚家兴同学在2025年"极地海洋与全球变化"研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！</p>
+    </div>
+  </div>
+
+  <!-- 公告4 -->
+  <div class="board_item">
+    <div class="board_up">
+      <p>2025.10.28~2025.10.31</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery4">
+        <a href="/images/teams/Japan_meeting/hezhao.jpg" class="mfp-gallery4">
+          <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="">
+        </a>
+        <a href="/images/teams/Japan_meeting/meeting1.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting2.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting3.jpg" class="mfp-gallery4"></a>
+        <a href="/images/teams/Japan_meeting/meeting4.jpg" class="mfp-gallery4"></a>
+      </div>
+    </div>
+    <div class="board_down">
+      <p>第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。</p>
+    </div>
+  </div>
+
 </div>
 
 
@@ -76,7 +108,7 @@ announcements:
   <a href="/images/ZX/retire4.jpg" class="mfp-gallery1"></a>
 </div>
 
-- 2025.3.18 北京师范大学珠海校区，极地科普讲座  “走近极地科考”
+- 2025.3.18 北京师范大学珠海校区，极地科普讲座  “走近极地科考"
 
 <div class="gallery2">
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery2">
@@ -108,7 +140,7 @@ announcements:
 
 <img src = "/blogs/wyf_paper/pic.png" style = "width:100%">
 
-很多人以为：冬季南极的海洋会被海冰严严实实地覆盖——但事实并非如此。在南极沿岸，海冰常常会被强劲的下降风吹开，形成一片片开阔水域或薄冰区。它们有一个很“酷”的名字——冰间湖（polynya）。冰间湖一方面让海洋和大气连通，强化热量交换、促进海冰生成；另一方面，阳光更早进入海洋表层，为浮游植物提供最早的生长机会。
+很多人以为：冬季南极的海洋会被海冰严严实实地覆盖——但事实并非如此。在南极沿岸，海冰常常会被强劲的下降风吹开，形成一片片开阔水域或薄冰区。它们有一个很“酷"的名字——冰间湖（polynya）。冰间湖一方面让海洋和大气连通，强化热量交换、促进海冰生成；另一方面，阳光更早进入海洋表层，为浮游植物提供最早的生长机会。
 那么问题来了：冰间湖面积变大，浮游植物会跟着变多吗？如果冰间湖提前向外扩张，浮游植物大量繁殖开始时间会不会也提前？
 
 链接：[https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1](https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1)
