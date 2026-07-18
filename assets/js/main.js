@@ -1909,30 +1909,70 @@ $(document).ready(function() {
 $(document).ready(function() {
   // 等待所有资源加载完成后初始化画廊
   $(window).on('load', function() {
-    // 自动初始化所有 galleryN 画廊
-    var i = 1;
-    while (true) {
-      var galleryClass = '.gallery' + i;
-      var linkClass = 'a.mfp-gallery' + i;
-      if ($(galleryClass).length === 0) break;
+    // 初始化四个独立的画廊
+    $('.gallery1').magnificPopup({
+      delegate: 'a.mfp-gallery1',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
 
-      $(galleryClass).magnificPopup({
-        delegate: linkClass,
-        type: 'image',
-        gallery: {
-          enabled: true
-        },
-        navigateByImgClick: true,
-        preload: [0, 1],
-        mainClass: 'mfp-fade',
-        removalDelay: 300,
-        tLoading: '加载中 #%curr%...',
-        image: {
-          tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
-        }
-      });
-      i++;
-    }
+    $('.gallery2').magnificPopup({
+      delegate: 'a.mfp-gallery2',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+
+    $('.gallery3').magnificPopup({
+      delegate: 'a.mfp-gallery3',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
+
+    $('.gallery4').magnificPopup({
+      delegate: 'a.mfp-gallery4',
+      type: 'image',
+      gallery: {
+        enabled: true
+      },
+      navigateByImgClick: true,
+      preload: [0, 1],
+      mainClass: 'mfp-fade',
+      removalDelay: 300,
+      tLoading: '加载中 #%curr%...',
+      image: {
+        tError: '<a href="%url%">图片 #%curr%</a> 加载失败。'
+      }
+    });
   });
 });
 

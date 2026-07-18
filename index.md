@@ -5,76 +5,55 @@ layout: page
 
 ## 团队公告板
 
-<!--
-  ===================== 使用说明 =====================
-  每条公告只需修改以下内容：
-  1. 日期：<p>日期内容</p>
-  2. 图片：把 folder + 文件名 组合成完整路径（第一张带 <img>，其余只有 <a>）
-  3. 描述：<p>描述文字</p>
-  4. gallery 编号：gallery1, gallery2, gallery3, gallery4 ...
-  ===================== 使用说明 =====================
--->
-
 <div class="board">
-
-  <!-- 公告1 -->
   <div class="board_item">
     <div class="board_up">
       <p>2026.6.17</p>
     </div>
     <div class="board_middle">
       <div class="gallery1">
-        <!-- 改路径：folder + 文件名，如 /images/ZX/ + xianjingeren1.jpg -->
         <a href="/images/ZX/xianjingeren1.jpg" class="mfp-gallery1">
-          <img src="/images/ZX/xianjingeren1.jpg" alt="">
+          <img src="/images/ZX/xianjingeren1.jpg" alt="Image 1">
         </a>
         <a href="/images/ZX/xianjingeren2.jpg" class="mfp-gallery1"></a>
-      </div>
+      </div> 
     </div>
     <div class="board_down">
-      <p>自然资源部获得"中国极地考察先进个人"表彰</p>
+    <p>中山大学赵羲老师于自然资源部获得“中国极地考察先进个人”表彰</p>
     </div>
   </div>
-
-  <!-- 公告2 -->
   <div class="board_item">
     <div class="board_up">
-      <p>2025.4.27~2025.5.2</p>
+      <p>2026.5</p>
     </div>
     <div class="board_middle">
       <div class="gallery2">
-        <a href="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" class="mfp-gallery2">
-          <img src="/images/teams/slj_meeting/EGU 2025/学术报告2.jpg" alt="">
+        <a href="/images/teams/2026毕业/毕业合照.jpg" class="mfp-gallery2">
+          <img src="/images/teams/2026毕业/毕业合照.jpg" alt="Image 1">
         </a>
-        <a href="/images/teams/slj_meeting/EGU 2025/团队合照1.JPG" class="mfp-gallery2"></a>
-        <a href="/images/teams/slj_meeting/EGU 2025/会场记录4.jpg" class="mfp-gallery2"></a>
-        <a href="/images/teams/slj_meeting/EGU 2025/学术报告3.JPG" class="mfp-gallery2"></a>
-      </div>
+        <a href="/images/teams/2026毕业/毕业生合照.jpg" class="mfp-gallery2"></a>
+      </div> 
     </div>
     <div class="board_down">
-      <p>博士研究生宋利娟前往维也纳参加2025年欧洲地球科学联盟（EGU2025）大会</p>
+    <p>2026毕业典礼</p>
     </div>
   </div>
-
-  <!-- 公告3 -->
   <div class="board_item">
     <div class="board_up">
-      <p>2025.5.26</p>
+      <p> 2025.5.26</p>
     </div>
     <div class="board_middle">
       <div class="gallery3">
-        <a href="/images/teams/gjx_meeting/gjx_huiyi1.png" class="mfp-gallery3">
-          <img src="/images/teams/gjx_meeting/gjx_huiyi1.png" alt="">
+        <a href="/images/teams/ZY/飞马奖学金1.jpg" class="mfp-gallery3">
+          <img src="/images/teams/ZY/飞马奖学金1.jpg" alt="Image 1">
         </a>
-        <a href="/images/teams/gjx_meeting/gjx_huiyi2.png" class="mfp-gallery3"></a>
+        <a href="/images/teams/ZY/飞马奖学金2.jpg" class="mfp-gallery3"></a>
       </div>
     </div>
     <div class="board_down">
-      <p>龚家兴同学在2025年"极地海洋与全球变化"研究生学术论坛中口头汇报的《2024年夏季楚克奇海海冰异常的驱动机制研究》被评为优秀论文一等奖！</p>
+      张翼同学荣获2026年飞马奖学金
     </div>
   </div>
-
-  <!-- 公告4 -->
   <div class="board_item">
     <div class="board_up">
       <p>2025.10.28~2025.10.31</p>
@@ -82,19 +61,18 @@ layout: page
     <div class="board_middle">
       <div class="gallery4">
         <a href="/images/teams/Japan_meeting/hezhao.jpg" class="mfp-gallery4">
-          <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="">
+          <img src="/images/teams/Japan_meeting/hezhao.jpg" alt="Image 1">
         </a>
         <a href="/images/teams/Japan_meeting/meeting1.jpg" class="mfp-gallery4"></a>
         <a href="/images/teams/Japan_meeting/meeting2.jpg" class="mfp-gallery4"></a>
         <a href="/images/teams/Japan_meeting/meeting3.jpg" class="mfp-gallery4"></a>
         <a href="/images/teams/Japan_meeting/meeting4.jpg" class="mfp-gallery4"></a>
-      </div>
+      </div>   
     </div>
     <div class="board_down">
-      <p>第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。</p>
+    <p>第八届国际北极研究研讨会由日本国家极地研究所牵头主办，中山大学极地与海洋遥感团队前往参会，课题组赵羲副教授与龚家兴博士生在会议中作口头汇报。</p>
     </div>
   </div>
-
 </div>
 
 
@@ -108,7 +86,7 @@ layout: page
   <a href="/images/ZX/retire4.jpg" class="mfp-gallery1"></a>
 </div>
 
-- 2025.3.18 北京师范大学珠海校区，极地科普讲座  “走近极地科考"
+- 2025.3.18 北京师范大学珠海校区，极地科普讲座  "走近极地科考"
 
 <div class="gallery2">
   <a href="/images/ZX/jiangzuo1.jpg" class="mfp-gallery2">
@@ -140,13 +118,13 @@ layout: page
 
 <img src = "/blogs/wyf_paper/pic.png" style = "width:100%">
 
-很多人以为：冬季南极的海洋会被海冰严严实实地覆盖——但事实并非如此。在南极沿岸，海冰常常会被强劲的下降风吹开，形成一片片开阔水域或薄冰区。它们有一个很“酷"的名字——冰间湖（polynya）。冰间湖一方面让海洋和大气连通，强化热量交换、促进海冰生成；另一方面，阳光更早进入海洋表层，为浮游植物提供最早的生长机会。
+很多人以为：冬季南极的海洋会被海冰严严实实地覆盖——但事实并非如此。在南极沿岸，海冰常常会被强劲的下降风吹开，形成一片片开阔水域或薄冰区。它们有一个很"酷"的名字——冰间湖（polynya）。冰间湖一方面让海洋和大气连通，强化热量交换、促进海冰生成；另一方面，阳光更早进入海洋表层，为浮游植物提供最早的生长机会。
 那么问题来了：冰间湖面积变大，浮游植物会跟着变多吗？如果冰间湖提前向外扩张，浮游植物大量繁殖开始时间会不会也提前？
 
 链接：[https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1](https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1)
 相关作者：[吴怡凡](https://xizhao-sysu.github.io/blogs/wyf) [张翼](https://XiZhao-sysu.github.io/blogs/zy) [宋利娟](https://xizhao-sysu.github.io/blogs/slj) [李博](https://xizhao-sysu.github.io/blogs/lb)
 
-- Gong, J., Song, L., Zhao, X., Rinke, A., Wang, X., Wu, Y., ... & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
+- Gong, J., Song, L., Zhao, X., Rinke, A., Wang, X., Wu, Y., ... & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
 
 <img src="/blogs/gjx/ERL.png" style="width:100%">
 
@@ -157,7 +135,7 @@ layout: page
 相关作者：[龚家兴](https://XiZhao-sysu.github.io/blogs/gjx) [宋利娟](https://xizhao-sysu.github.io/blogs/slj)  [吴怡凡](https://xizhao-sysu.github.io/blogs/wyf)
 
 
-- Zhao, X., Gong, J., Qu, M., Song, L., & Cheng, X. (2025). Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 316, 114517. 10.1016/j.rse.2024.114517
+- Zhao, X., Gong, J., Qu, M., Song, L., & Cheng, X. (2025). Assessing lead fraction derived from passive microwave images and improving estimates at pixel-wise level. Remote Sensing of Environment, 316, 114517. 10.1016/j.rse.2024.114517
 
 <img src="/blogs/gjx/RSE.png" style="width:100%">
 
@@ -176,4 +154,4 @@ layout: page
 
 链接：[https://mp.weixin.qq.com/s/niVrsSOMqlZW23U6zlLiJw](https://mp.weixin.qq.com/s/niVrsSOMqlZW23U6zlLiJw)
 
-相关作者：[李博](https://xizhao-sysu.github.io/blogs/lb) [龚家兴](https://XiZhao-sysu.github.io/blogs/gjx)
+相关作者：[李博](https://xizhao-sysu.github.io/blogs/lb) [龚家兴](https://xizhao-sysu.github.io/blogs/gjx)
