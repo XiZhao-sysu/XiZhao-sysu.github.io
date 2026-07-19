@@ -121,6 +121,7 @@ layout: page
 2024年，“中山大学极地”号科考船首航北冰洋，执行FACE2024（Following Arctic/Antarctic iCE 2024）追冰计划，调查北极海冰边缘区的退缩状况。在浮冰区作业期间，科考人员观测到浮冰在风场与洋流的驱动下呈现出显著的位移与旋转运动。通过在典型浮冰（编号41号）上布放的GPS浮标计算发现，该浮冰在10分钟内旋转角度达2.5°，凸显了海冰边缘区浮冰运动的快速性与复杂性。这种快速且难以预测的运动，不仅显著增加了船舶航线规划的难度，更对冰区科考作业，尤其是水下潜器（包括载人与无人潜器）的上浮出水及水面操纵构成了严峻的安全威胁。
 
 链接：[https://mp.weixin.qq.com/s/7JOojb4Xh4D3q4o7EJ8grA](https://mp.weixin.qq.com/s/7JOojb4Xh4D3q4o7EJ8grA)
+
 相关作者：[李博](https://xizhao-sysu.github.io/blogs/lb) [宋利娟](https://xizhao-sysu.github.io/blogs/slj) [吴怡凡](https://xizhao-sysu.github.io/blogs/wyf) [龚家兴](https://XiZhao-sysu.github.io/blogs/gjx) [张翼](https://XiZhao-sysu.github.io/blogs/zy)
 
 
@@ -132,6 +133,7 @@ layout: page
 那么问题来了：冰间湖面积变大，浮游植物会跟着变多吗？如果冰间湖提前向外扩张，浮游植物大量繁殖开始时间会不会也提前？
 
 链接：[https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1](https://mp.weixin.qq.com/s/lSs9TqC0nelDCnxDWNkK_Q?scene=1&click_id=1)
+
 相关作者：[吴怡凡](https://xizhao-sysu.github.io/blogs/wyf) [张翼](https://XiZhao-sysu.github.io/blogs/zy) [宋利娟](https://xizhao-sysu.github.io/blogs/slj) [李博](https://xizhao-sysu.github.io/blogs/lb)
 
 - Gong, J., Song, L., Zhao, X., Rinke, A., Wang, X., Wu, Y., ... & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
