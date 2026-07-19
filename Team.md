@@ -16,7 +16,7 @@ title: Team
             <p>宋利娟</p>
           </div>
           <div class="up_right_box">
-            <p>博士研究生</p>
+            <p>博士毕业生</p>
           </div>
         </div>
         <div class="middle_div">
@@ -128,7 +128,7 @@ title: Team
             <p>葛紫腾</p>
           </div>
           <div class="up_right_box">
-            <p>硕士研究生</p>
+            <p>硕士毕业生</p>
           </div>
         </div>
         <div class="middle_div">
@@ -155,7 +155,7 @@ title: Team
             <p>张翼</p>
           </div>
           <div class="up_right_box">
-            <p>硕士研究生</p>
+            <p>博士研究生</p>
           </div>
         </div>
         <div class="middle_div">

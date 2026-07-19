@@ -114,6 +114,16 @@ layout: page
 
 ---
 ### 文章公众号
+- Li, B., Zhao, X., Cheng, X., Chen, Z., Han, Y., Stein, A., … Zhang, Y. (2026). Real-time monitoring of sea ice floes using shipborne marine radar during the FACE2024 arctic expedition. GIScience & Remote Sensing, 63(1). https://doi.org/10.1080/15481603.2026.2640271
+
+<img src = "/blogs/lb/FMD.png" style = "width:100%">
+
+2024年，“中山大学极地”号科考船首航北冰洋，执行FACE2024（Following Arctic/Antarctic iCE 2024）追冰计划，调查北极海冰边缘区的退缩状况。在浮冰区作业期间，科考人员观测到浮冰在风场与洋流的驱动下呈现出显著的位移与旋转运动。通过在典型浮冰（编号41号）上布放的GPS浮标计算发现，该浮冰在10分钟内旋转角度达2.5°，凸显了海冰边缘区浮冰运动的快速性与复杂性。这种快速且难以预测的运动，不仅显著增加了船舶航线规划的难度，更对冰区科考作业，尤其是水下潜器（包括载人与无人潜器）的上浮出水及水面操纵构成了严峻的安全威胁。
+
+链接：[https://mp.weixin.qq.com/s/7JOojb4Xh4D3q4o7EJ8grA](https://mp.weixin.qq.com/s/7JOojb4Xh4D3q4o7EJ8grA)
+相关作者：[李博](https://xizhao-sysu.github.io/blogs/lb) [宋利娟](https://xizhao-sysu.github.io/blogs/slj) [吴怡凡](https://xizhao-sysu.github.io/blogs/wyf) [龚家兴](https://XiZhao-sysu.github.io/blogs/gjx) [张翼](https://XiZhao-sysu.github.io/blogs/zy)
+
+
 - Yi-Fan Wu, Xi Zhao, Yi Zhang,Alfred Stein,Zhao-Ru Zhang,Li-Juan Song,Bo Li,Xue-Jiao Hou, Xiao Cheng (2025).Spatiotemporal Dynamics of Polynyas and their Relationships with Phytoplankton Blooms in the Ross Sea, Antarctica 1
 
 <img src = "/blogs/wyf_paper/pic.png" style = "width:100%">

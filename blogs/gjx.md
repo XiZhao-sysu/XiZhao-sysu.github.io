@@ -31,8 +31,7 @@ title: gjx
 邮箱：gongjx7@mail2.sysu.edu.cn
 
 ### 研究内容
-- 发展基于被动微波遥感的北极冰间水道探测方法；
-- 探索海冰-极端事件双向反馈机制，为北极航道安全与海冰、气候模式预测提供新视角。
+- “新北极”下北极海冰快速变化机制及其生态响应；
 
 ### 研究论文发表
 - Gong, J., Song, L., Zhao, X., Rinke, A., Wang, X., Wu, Y., ... & Cheng, X. (2025). Drivers of the rare persistence of sea ice in the western Chukchi Sea in summer 2024. Environmental Research Letters. 10.1088/1748-9326/adc098
@@ -70,13 +69,16 @@ title: gjx
 - 2024.12 大湾区测绘遥感大会，口头汇报，广东深圳
 - 2025.05 中国海洋大学“极地海洋与全球变化”研究生学术论坛，口头汇报，山东青岛，获优秀论文一等奖。
 - 2025.10 第八届国际北极研究研讨会（The Eighth International Symposium on Arctic Research, ISAR-8），口头报告，日本东京八王子市。
+- 2025.10 The Eighth International Symposium on Arctic Research, ISAR-8，（Challenges in SAR Lead Detection Under Varying Developmental Stages and Background Ice Condition），口头报告，日本东京八王子市。
+- 2026.06 ASIA EARLY CAREER POLAR FORUM，（Drivers of the Rare Persistence of Sea Ice in the Western Chukchi Sea in Summer 2024），口头报告，广东省珠海市。
 
 ### 兴趣爱好
 旅游，爬山等。
 
 ### 获得奖项：
+- 上海市优秀毕业生（2022年） 
 - 2025年度“飞马极地与海洋”奖学金
-- 中山大学优秀毕业生
+- 中山大学优秀毕业生（2025年）
 
 ### 邮箱
 gongjx7@mail2.sysu.edu.cn
