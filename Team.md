@@ -99,7 +99,7 @@ title: Team
             <p>龚家兴</p>
           </div>
           <div class="up_right_box">
-            <p>硕士研究生</p>
+            <p>博士研究生</p>
           </div>
         </div>
         <div class="middle_div">
@@ -211,7 +211,7 @@ title: Team
             <p>卢淳芸</p>
           </div>
           <div class="up_right_box">
-            <p>本科生</p>
+            <p>硕士研究生</p>
           </div>
         </div>
         <div class="middle_div">
@@ -230,6 +230,90 @@ title: Team
         </div>
     </div>
     <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/luchunyun1.png" alt="卢淳芸" class="img_right">
+  </div>
+
+  <div class="image-text-item">
+    <div class="box_left">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>曹平宇</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>研究方向：南极冰间湖</li>
+              <li>邮箱：caopy6@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://xizhao-sysu.github.io/blogs/cpy">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/caopingyu1.png" alt="曹平宇" class="img_right">
+  </div>
+
+  <div class="image-text-item">
+    <div class="box_left">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>刘心如</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>研究方向：SAR遥感影像海冰识别</li>
+              <li>邮箱：m15119341832@163.com</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://xizhao-sysu.github.io/blogs/lxr">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/liuxinru1.png" alt="刘心如" class="img_right">
+  </div>
+
+  <div class="image-text-item">
+    <div class="box_left">
+        <div class="up_div">
+          <div class="up_left_box">
+            <p>王庭旭</p>
+          </div>
+          <div class="up_right_box">
+            <p>硕士研究生</p>
+          </div>
+        </div>
+        <div class="middle_div">
+          <hr style="width: 80%;margin: 10px auto;border: none;border-top: 1px solid #ccc; ">
+        </div>
+        <div class = "down_div">
+          <div class="down_left_box">
+            <ul>
+              <li>研究方向：南极沿岸冰间湖动力机制</li>
+              <li>邮箱：wangtx@mail2.sysu.edu.cn</li>
+            </ul>
+          </div>
+          <div class="down_right_box">
+            <p><a href="https://xizhao-sysu.github.io/blogs/wtx">查看详情</a></p>
+          </div>
+        </div>
+    </div>
+    <img src="https://xizhao-sysu.github.io//blogs/team_members.assets/wangtingxu1.png" alt="王庭旭" class="img_right">
   </div>
 
 </div>

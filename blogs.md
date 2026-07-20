@@ -14,6 +14,9 @@ title: Blogs
 - [张翼](https://xizhao-sysu.github.io/blogs/zy)
 - [江宇](https://xizhao-sysu.github.io/blogs/jy)
 - [卢淳芸](https://xizhao-sysu.github.io/blogs/lcy)
+- [曹平宇](https://xizhao-sysu.github.io/blogs/cpy)
+- [刘心如](https://xizhao-sysu.github.io/blogs/lxr)
+- [王庭旭](https://xizhao-sysu.github.io/blogs/wtx)
 
 
 

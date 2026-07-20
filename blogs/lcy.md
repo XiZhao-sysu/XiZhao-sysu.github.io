@@ -12,9 +12,14 @@ title: lcy
 
 <table class="table_md">
   <tr>
-    <td>2021.09-今</td>
+    <td>2021.09-2025.06</td>
     <td>中山大学</td>
     <td>遥感科学与技术，本科</td>
+  </tr>
+  <tr>
+    <td>2025.09-至今</td>
+    <td>中山大学</td>
+    <td>遥感科学与技术，硕士</td>
   </tr>
 </table>
 
