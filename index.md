@@ -8,14 +8,29 @@ layout: page
 <div class="board">
   <div class="board_item">
     <div class="board_up">
-      <p>2026.6.17</p>
+      <p> 2026.9.10</p>
     </div>
     <div class="board_middle">
       <div class="gallery1">
-        <a href="/images/ZX/xianjingeren1.jpg" class="mfp-gallery1">
+        <a href="/images/ZX/quanguozuimei.jpg" class="mfp-gallery1">
+          <img src="/images/ZX/quanguozuimei.jpg" alt="Image 1">
+        </a>
+      </div>
+    </div>
+    <div class="board_down">
+      2026年9月10日，获得2026全国最美教师荣誉
+    </div>
+  </div>
+  <div class="board_item">
+    <div class="board_up">
+      <p>2026.6.17</p>
+    </div>
+    <div class="board_middle">
+      <div class="gallery2">
+        <a href="/images/ZX/xianjingeren1.jpg" class="mfp-gallery2">
           <img src="/images/ZX/xianjingeren1.jpg" alt="Image 1">
         </a>
-        <a href="/images/ZX/xianjingeren2.jpg" class="mfp-gallery1"></a>
+        <a href="/images/ZX/xianjingeren2.jpg" class="mfp-gallery2"></a>
       </div> 
     </div>
     <div class="board_down">
@@ -27,31 +42,15 @@ layout: page
       <p>2026.5</p>
     </div>
     <div class="board_middle">
-      <div class="gallery2">
-        <a href="/images/teams/2026毕业/毕业合照.jpg" class="mfp-gallery2">
+      <div class="gallery3">
+        <a href="/images/teams/2026毕业/毕业合照.jpg" class="mfp-gallery3">
           <img src="/images/teams/2026毕业/毕业合照.jpg" alt="Image 1">
         </a>
-        <a href="/images/teams/2026毕业/毕业生合照.jpg" class="mfp-gallery2"></a>
+        <a href="/images/teams/2026毕业/毕业生合照.jpg" class="mfp-gallery3"></a>
       </div> 
     </div>
     <div class="board_down">
     <p>2026毕业典礼</p>
-    </div>
-  </div>
-  <div class="board_item">
-    <div class="board_up">
-      <p> 2025.5.26</p>
-    </div>
-    <div class="board_middle">
-      <div class="gallery3">
-        <a href="/images/teams/ZY/飞马奖学金1.jpg" class="mfp-gallery3">
-          <img src="/images/teams/ZY/飞马奖学金1.jpg" alt="Image 1">
-        </a>
-        <a href="/images/teams/ZY/飞马奖学金2.jpg" class="mfp-gallery3"></a>
-      </div>
-    </div>
-    <div class="board_down">
-      张翼同学荣获2026年飞马奖学金
     </div>
   </div>
   <div class="board_item">
