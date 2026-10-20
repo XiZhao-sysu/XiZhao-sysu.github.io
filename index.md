@@ -18,7 +18,7 @@ layout: page
       </div>
     </div>
     <div class="board_down">
-      2026年9月10日，获得2026全国最美教师荣誉
+      2026年9月10日，中山大学赵羲教授获得2026全国最美教师荣誉
     </div>
   </div>
   <div class="board_item">
@@ -34,7 +34,7 @@ layout: page
       </div> 
     </div>
     <div class="board_down">
-    <p>中山大学赵羲老师于自然资源部获得“中国极地考察先进个人”表彰</p>
+    <p>中山大学赵羲教授于自然资源部获得“中国极地考察先进个人”表彰</p>
     </div>
   </div>
   <div class="board_item">
